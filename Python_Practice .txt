@@ -1,0 +1,3779 @@
++AHs-
+ +ACI-cells+ACI-: +AFs-
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-name +AD0- input(+AFwAIg-enter your name+AFwAIg-)+AFw-n+ACI-,
+    +ACI-print(+AFwAIg-Hello+AFwAIg-,name)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- I am new in Python+AFw-n+ACI-,
+    +ACIAIwAj- I wnat to learn Python+AFw-n+ACI-,
+    +ACIAIwAjACM- I want to be expert in Python+AFw-n+ACI-,
+    +ACIAIwAjACMAIw- I will be expert in Python+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAYA-I want to learn data science,+AGAAIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- I am learning Python+AFw-n+ACI-,
+    +ACIAPA-br+AD4-Here I have put line break+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAPg- indent+AFw-n+ACI-,
+    +ACIAPgA+- more indent+AFw-n+ACI-,
+    +ACIAPgA+AD4-even ,more indent+AFw-n+ACI-,
+    +ACIAPgA+AD4APg-further indent+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Print+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-print(+AFwAIg-this is my line of code in Python+AFwAIg-) +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- adding a new line+AFw-n+ACI-,
+    +ACIAIwAjACM- code is +AFwAXA-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-print(+AFwAIg-Hello+AFwAXA-nthis is addition of new line+AFwAIg-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIwAjACM- addition / substraction / multiplication / division+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-a+AD0-5+AFw-n+ACI-,
+    +ACI-b+AD0-7+AFw-n+ACI-,
+    +ACI-print(a)+AFw-n+ACI-,
+    +ACI-print(a-b)+AFw-n+ACI-,
+    +ACI-print(a+ACo-b)+AFw-n+ACI-,
+    +ACI-print(a/b)+AFw-n+ACI-,
+    +ACI-print(a//b)+AFw-n+ACI-,
+    +ACI-print(a+ACU-b)+AFw-n+ACI-,
+    +ACI-print(a+ACoAKg-b)+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIwAjACM- BEDMAS+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-print(47+ACo-8/4)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAYA-incremental operator+AGAAIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-a+AD0-9+AFw-n+ACI-,
+    +ACI-print(a)+AFw-n+ACI-,
+    +ACI-a +AD0-1+AFw-n+ACI-,
+    +ACI-print(a)+AFw-n+ACI-,
+    +ACI-a -+AD0-2+AFw-n+ACI-,
+    +ACI-print(a)+AFw-n+ACI-,
+    +ACI-a +ACoAPQ-2+AFw-n+ACI-,
+    +ACI-print(a)+AFw-n+ACI-,
+    +ACI-a /+AD0-4+AFw-n+ACI-,
+    +ACI-print(a)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAYA-logical+AGAAIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-print(3+ADw-4)+AFw-n+ACI-,
+    +ACI-print(True or False)+AFw-n+ACI-,
+    +ACI-print(True and False)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAYA-remove blank space at the end i.e.at the right end+AGAAXA-n+ACI-,
+    +ACIAPA-br+AD4AXA-n+ACI-,
+    +ACIAYA-code +AD0- .rtrip()+AGAAIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Sentence +AD0AXAAi-how to remove blank space at the end             +AFwAIgBc-n+ACI-,
+    +ACI-print(Sentence)+AFw-n+ACI-,
+    +ACI-print(Sentence.rstrip())+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-indexing in string+ACoAKgA8-br+AD4- +ACoAKg-in string can index a value but can not change the value+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-string+AD0AXAAi-abcde+AFwAIgBc-n+ACI-,
+    +ACI-print(string)+AFw-n+ACI-,
+    +ACI-print(string+AFs-1+AF2y2uKeAFs-3+AF0-)+AFw-n+ACI-,
+    +ACI-string+AFs-1+AF0APQ-'B'+AFw-n+ACI-,
+    +ACIAIw- string values are immutable or can not be changed +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-entire string can be changed+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-string +AD0- 'fghij'+AFw-n+ACI-,
+    +ACI-print(string)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-can add two string+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-string+AF8-1+AD0-'klmno'+AFw-n+ACI-,
+    +ACI-print(string+stringBf-1'pqrs')+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-adding one numeric value in string+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-A+AD0-'I am '+AFw-n+ACI-,
+    +ACI-B+AD0-' yeras old'+AFw-n+ACI-,
+    +ACI-print(A)+AFw-n+ACI-,
+    +ACI-print(B)+AFw-n+ACI-,
+    +ACI-Age+AD0-43+AFw-n+ACI-,
+    +ACI-print(A str(Age))+AFw-n+ACI-,
+    +ACIAIw- here str function convert Age in a string and then it get added+AFw-n+ACI-,
+    +ACIAIw- note space have been provided after 'am' and before 'years'+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAYA-remove some tail at teh righht side+AGAAXA-n+ACI-,
+    +ACIAPA-br+AD4AXA-n+ACI-,
+    +ACIAYA-code +AD0- .rstrip('the tail')+AGAAIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-a +AD0- '456+AEA-'+AFw-n+ACI-,
+    +ACI-print(a)+AFw-n+ACI-,
+    +ACI-b +AD0- (a.rstrip('+AEA-'))+AFw-n+ACI-,
+    +ACI-print(b)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAYA-remove suffix+AGAAPA-br+AD4AYA-code +AD0- .lstrip('suffix+AFwAIg-)+AGAAIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-a +AD0- '+ACQ-456'+AFw-n+ACI-,
+    +ACI-print(a)+AFw-n+ACI-,
+    +ACI-print(a.lstrip('+ACQ-'))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAYA-remove from both end+AGAAPA-br+AD4AYA-code+AD0- .rstrip('prefix').lstrip('suffix')+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-a +AD0- '+AEA-50+ACU-'+AFw-n+ACI-,
+    +ACI-print(a)+AFw-n+ACI-,
+    +ACI-print(a.lstrip('+AEA-').rstrip('+ACU-'))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAYA-remove blank space at both end+AGAAPA-br+AD4AYA-.strip()+AGAAIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-a+AD0- +AFwAIg-                      remove blank space at both end                    +AFwAIgBc-n+ACI-,
+    +ACI-print(a)+AFw-n+ACI-,
+    +ACI-print(a.strip())+AFw-n+ACI-,
+    +ACI-b +AD0- '+AEAAQABA-456+ACMAIwAj-'+AFw-n+ACI-,
+    +ACI-c+AD0-'+ACoAKgAq-123+ACoAKgAq-'+AFw-n+ACI-,
+    +ACI-print(b.lstrip('+AEA-').rstrip('+ACM-'))+AFw-n+ACI-,
+    +ACI-print(c.strip('+ACo-'))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- count a chareter in a string+AFw-n+ACI-,
+    +ACI-A +AD0- 'aibicidieifigihi'+AFw-n+ACI-,
+    +ACI-print(A.count('i'))+AFw-n+ACI-,
+    +ACIAIw- count the no of i from 5th indexing location+AFw-n+ACI-,
+    +ACI-print(A.count('i',5))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- injecting object in a string +AFw-n+ACI-,
+    +ACI-A +AD0-'using'+AFw-n+ACI-,
+    +ACI-B+AD0- 'Data'+AFw-n+ACI-,
+    +ACI-C +AD0- 'analysis'+AFw-n+ACI-,
+    +ACI-D +AD0- +AFwAIg-Python+AFwAIgBc-n+ACI-,
+    +ACI-print('+AHs-0+AH0- +AHs-1+AH0- using +AHs-2+AH0-'.format(B,C,D))+AFw-n+ACI-,
+    +ACI-print('+AHs-0+AH0- +AHs-1+AH0- +AHs-2+AH0- +AHs-3+AH0-'.format(B,C,A,D))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Value +AD0- +AFwAIg-246 apples+AFwAIgBc-n+ACI-,
+    +ACI-no+AF8-of+AF8-apples +AD0- Value+AFs-0+AF0AXA-n+ACI-,
+    +ACI-print('no of apples +AD0-',no+AF8-of+AF8-apples)+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Value+AD0- +AFwAIg-246 apples+AFwAIgBc-n+ACI-,
+    +ACI-no+AF8-of+AF8-apples +AD0- Value+AFs-2+AF0AXA-n+ACI-,
+    +ACI-print('no of apples +AD0-',no+AF8-of+AF8-apples)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Value +AD0- +AFwAIg-246 apples+AFwAIgBc-n+ACI-,
+    +ACI-what +AD0- Value+AFs-3:+AF0AXA-n+ACI-,
+    +ACI-print(what)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Value +AD0- +AFwAIg-246 apples+AFwAIgBc-n+ACI-,
+    +ACI-what +AD0- Value+AFs-3:6+AF0AXA-n+ACI-,
+    +ACI-print(what)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Value +AD0- +AFwAIg-246 apples+AFwAIgBc-n+ACI-,
+    +ACI-what +AD0- Value+AFs--2+AF0AXA-n+ACI-,
+    +ACI-print(what)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- slicing first 5 charetcer +AFw-n+ACI-,
+    +ACI-print(Value+AFs-0:6+AF0-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- check specific chareter inside string or not+AFw-n+ACI-,
+    +ACI-print('apple' in Value)+AFw-n+ACI-,
+    +ACI-print('apples' in Value)+AFw-n+ACI-,
+    +ACI-print(+AFwAIg-s+AFwAIg- in Value)+AFw-n+ACI-,
+    +ACI-print('appel' in Value)+AFw-n+ACI-,
+    +ACI-print('appels' not in Value)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-x +AD0- 'len'+AFw-n+ACI-,
+    +ACI-x+AFs-len(x +ACo- 2)-5+AF0AIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-change the case of a string+AFw-n+ACI-,
+    +ACI-string +AD0- 'I like to work witht data'+AFw-n+ACI-,
+    +ACI-A +AD0- string.upper()+AFw-n+ACI-,
+    +ACI-print(A)+AFw-n+ACI-,
+    +ACI-B +AD0- A.lower()+AFw-n+ACI-,
+    +ACI-print(B)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAYA-odd +ACY- even number position digit+AGAAPA-br+AD4- +AGA-code +AD0- +AFs-0 if odd or 1 if even : : 2+AF0AYAA8-br+AD4- +AGA-here after first colon no digit is there so system will look upto end of the string+AGAAPA-br+AD4AYA-digit after second colone tells how many digit to skip before printing next one+AGAAIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-number +AD0- +AFwAIg-12345678901234+AFwAIgBc-n+ACI-,
+    +ACI-even+AF8-number+AF8-digits+AD0-number+AFs-1::2+AF0AXA-n+ACI-,
+    +ACI-print(even+AF8-number+AF8-digits)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-number +AD0- '12345678901234'+AFw-n+ACI-,
+    +ACI-odd+AF8-number+AF8-digits+AD0-number+AFs-0::2+AF0AXA-n+ACI-,
+    +ACI-print(odd+AF8-number+AF8-digits)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-name +AD0- 'Amar Ghatak'+AFw-n+ACI-,
+    +ACI-first+AF8-name+AD0-name+AFs-:6+AF0AXA-n+ACI-,
+    +ACI-print(first+AF8-name)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-len('Python')+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-'H+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAqACo-'Type Casting'+ACoAKgAqAFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-a+AD0- 2+AFw-n+ACI-,
+    +ACI-b+AD0-2.2+AFw-n+ACI-,
+    +ACI-print(float(a))+AFw-n+ACI-,
+    +ACI-print(int(a))+AFw-n+ACI-,
+    +ACI-print(str(a))+AFw-n+ACI-,
+    +ACI-print(float(b))+AFw-n+ACI-,
+    +ACI-print(int(b))+AFw-n+ACI-,
+    +ACI-print(str(b))+AFw-n+ACI-,
+    +ACI-print(float(True))+AFw-n+ACI-,
+    +ACI-print(int(False))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-name +AD0- 'Amar'+AFw-n+ACI-,
+    +ACI-print(type(name))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-print(5//2)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAqACo- Qestin ?? following string is given+ACoAKgAqAFw-n+ACI-,
+    +ACIAKgAqACo-1. length of string? 2. how many 'a+AFwAIg- is there in the string? 3. is the string started with 'if'?+ACoAKgAqADw-br+AD4AKgAqACo-4.Return the substring starting at index 63 and ending at index 88 , 5.Identify the 46th character in the string.+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-    string +AD0- +AFwAIg-OQYWFClFhFGAvIWYwGKpmZhnJiyzTslSIhSwvOsqJMEphzmifTkyqOMNpnOtXZxmCfgDYqbaBHAUvIWhMnvwZnEMVDvmEfLrDoQnAZgQEgXQVnmSYkfedpAdhrtpOgORpYLRZYGWdhWYuqQssCUXtTzKRDAhpjUheOzUroZNzWFtZOVwIapzUYtbSbjYNErzQ+AFwAIgBc-n+ACI-,
+    +ACI-    print(len(string))+AFw-n+ACI-,
+    +ACI-    print(string.count('a'))+AFw-n+ACI-,
+    +ACI-    string.find('if',0,2)+AFw-n+ACI-,
+    +ACI-    print(string+AFs-63:89+AF0-)+AFw-n+ACI-,
+    +ACI-    print(string+AFs-45+AF0-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAqACo-tuple+ACoAKgAqACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- a tuple of differnet type of element e.g string, integer and float+AFw-n+ACI-,
+    +ACI-t+AD0-('abcd', 4, 4.5)+AFw-n+ACI-,
+    +ACI-print(t)+AFw-n+ACI-,
+    +ACI-type(t)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- tuple can be defined without parenthtesis also+AFw-n+ACI-,
+    +ACI-t1 +AD0- 1,2,3,4+AFw-n+ACI-,
+    +ACI-print(t1)+AFw-n+ACI-,
+    +ACI-type(t1)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- with single elemnet tuple need ',' after the element+AFw-n+ACI-,
+    +ACIAIwAj- single value tuple with parenthesis  +AFw-n+ACI-,
+    +ACI-t3 +AD0- (1,)+AFw-n+ACI-,
+    +ACI-print(t3)+AFw-n+ACI-,
+    +ACI-type(t3)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- single element tuple wihthout parenthesis +AFw-n+ACI-,
+    +ACI-t4 +AD0- 4,+AFw-n+ACI-,
+    +ACI-print(t4)+AFw-n+ACI-,
+    +ACI-type(t4)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- give the element at index location+AFw-n+ACI-,
+    +ACI-t +AD0- +AFwAIg-Amar+AFwAIg-, 'Ghatak', 43, +AFwAIg-engineer+AFwAIgBc-n+ACI-,
+    +ACI-type(t)+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- indexing +ACY- sicing+AFw-n+ACI-,
+    +ACI-print(t+AFs-0+AF0-)+AFw-n+ACI-,
+    +ACI-print(t+AFs-0:2+AF0-)+AFw-n+ACI-,
+    +ACI-print(t+AFs-2:+AF0-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-sum, max +ACY- min of tuple+AFw-n+ACI-,
+    +ACI-k +AD0- 3,4.5,6,9+AFw-n+ACI-,
+    +ACI-print(sum(k))+AFw-n+ACI-,
+    +ACI-print(max(k))+AFw-n+ACI-,
+    +ACI-print(min(k))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-t+AFs-0+AF0AWw-1+AF0AIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- sorting a tuple comand is sort: it creates a list of elements of tuple in order+AFw-n+ACI-,
+    +ACI-L +AD0- 2,3,4,5,6,7,8+AFw-n+ACI-,
+    +ACI-sorted(L)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-nested tuple +AD0- tuple inside a tuple+AFw-n+ACI-,
+    +ACI-G +AD0- +AFwAIg-Amar+AFwAIg-, +AFwAIg-Ghatak+AFwAIg-, (+AFwAIg-Production+AFwAIg-, +AFwAIg-Engineer+AFwAIg-)+AFw-n+ACI-,
+    +ACI-print(G+AFs-2+AF0AWw-1+AF0-)+AFw-n+ACI-,
+    +ACI-print(G+AFs-2+AF0AWw-0+AF0AWw-1+AF0-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- packaing and unpacking a tuple+AFw-n+ACI-,
+    +ACI-A +AD0- 1,2,3,4  +ACM- packing+AFw-n+ACI-,
+    +ACI-a,b,c,d +AD0- A  +ACM- unpacking+AFw-n+ACI-,
+    +ACI-print(A)+AFw-n+ACI-,
+    +ACI-print(a)+AFw-n+ACI-,
+    +ACI-print(d)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-LIST+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- list can include differnet type of element evn tuple+AFw-n+ACI-,
+    +ACI-L+AD0AWwBcACI-Amar+AFwAIg-, +AFwAIg-Ghatak+AFwAIg-, +AFwAIg-Age+AD0AXAAi-, 43, ('Profession', 'Salaried')+AF0AXA-n+ACI-,
+    +ACI-type(L)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- index operation+AFw-n+ACI-,
+    +ACI-print(L+AFs-0+AF0-)+AFw-n+ACI-,
+    +ACI-print(L+AFs-4+AF0AWw-1+AF0-)+AFw-n+ACI-,
+    +ACI-print(L+AFs--2+AF0-)+AFw-n+ACI-,
+    +ACI-print(L+AFs-0:2+AF0-)+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAXA-n+ACI-,
+    +ACI-L1 +AD0- +AFs-1,2,3,4+AF0AXA-n+ACI-,
+    +ACI-type(L1)+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- membership function in List+AFw-n+ACI-,
+    +ACI-print(L1)+AFw-n+ACI-,
+    +ACI-print(4 in L1)+AFw-n+ACI-,
+    +ACI-print(8 in L1)+AFw-n+ACI-,
+    +ACI-print(8 not in L1)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- concatenation function+AFw-n+ACI-,
+    +ACI-print(L  L1)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- replace element in list+AFw-n+ACI-,
+    +ACI-L+AFs-3+AF0APQ-42+AFw-n+ACI-,
+    +ACI-L+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- another replace+AFw-n+ACI-,
+    +ACI-L+AFs-4+AF0- +AD0- ('Profession', 'in Engineering job')+AFw-n+ACI-,
+    +ACI-L+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- append+AFw-n+ACI-,
+    +ACI-L.append('A')+AFw-n+ACI-,
+    +ACI-L+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- extend +AFw-n+ACI-,
+    +ACI-L.extend((6,7))+AFw-n+ACI-,
+    +ACI-L+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- delete element of list+AFw-n+ACI-,
+    +ACI-del L+AFs-5+AF0AXA-n+ACI-,
+    +ACI-L+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- pop delete the last object of a list+AFw-n+ACI-,
+    +ACI-L.pop()+AFw-n+ACI-,
+    +ACI-L+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- remove function to remove specific element+AFw-n+ACI-,
+    +ACI-L.remove('Amar')+AFw-n+ACI-,
+    +ACI-L+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-L.remove('Ghatak')+AFw-n+ACI-,
+    +ACI-L+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-L2+AD0- +AFs-2,9,5,11,16,24,1+AF0AXA-n+ACI-,
+    +ACI-L2+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- sorting of list, sort finction do sorting in ascending order,+AFw-n+ACI-,
+    +ACI-L2.sort()+AFw-n+ACI-,
+    +ACI-L2+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-sort(reverse +AD0- True) function do sort in reverse order+ADs- note : True +AFwAIg-T+AFwAIg- is in capital+AFw-n+ACI-,
+    +ACI-L2.sort(reverse +AD0- True)+AFw-n+ACI-,
+    +ACI-L2+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- difference of sort and sorted+AFw-n+ACI-,
+    +ACI-A +AD0- +AFsAXAAi-Orange+AFwAIg-, +AFwAIg-Strawbery+AFwAIg-, 'Mango'+AF0AXA-n+ACI-,
+    +ACI-A+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-print(A)+AFw-n+ACI-,
+    +ACI-B +AD0-A.sort() +ACM- A.sort has sorted the element of A in ascending order based on ASCII value, but dose not retun any obeject+AFw-n+ACI-,
+    +ACIAIwAj- so the value of B is None+AFw-n+ACI-,
+    +ACI-print(A)+AFw-n+ACI-,
+    +ACI-print(B)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- sorted function sort the element of iterable object like list in ascending ordrer +AFw-n+ACI-,
+    +ACIAIwAj- all the element should be simmilar nature+AFw-n+ACI-,
+    +ACI-B+AD0- +AFsAXAAi-Orange+AFwAIg-,'Mango','Apple'+AF0AXA-n+ACI-,
+    +ACI-C +AD0- sorted(B) +ACM- return as an new object+AFw-n+ACI-,
+    +ACI-print(B)+AFw-n+ACI-,
+    +ACI-print(C)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAYA-shallow Copying+AGAAIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-A +AD0- +AFs-'Orange','Strawbery', 'Mango'+AF0AXA-n+ACI-,
+    +ACI-B +AD0- A +ACM- creted a copy of object A in variable B+AFw-n+ACI-,
+    +ACI-A+AFs-0+AF0- +AD0-'Apple' +ACM- changed the +AFs-0+AF0- object of A with new object+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-A +ACM- here first object has changed +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-B +ACM- strange to note that first object of B is also changed+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-explanation : this has happened as A +AD0- B has just object of A is assigned to variable B so any change in A or B will reflect in both the list.+ADw-br+AD4- to overcome the situation Python has shalow Copying+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-A +AD0- +AFs-'Orange','Strawbery', 'Mango'+AF0AXA-n+ACI-,
+    +ACI-B +AD0- A+AFs-:+AF0- +ACM- here end to end slicing is done and assigned a new list of object to variable B+AFw-n+ACI-,
+    +ACI-A+AFs-0+AF0- +AD0- 'Apple'+AFw-n+ACI-,
+    +ACI-print(A) +ACM- A has changed +AFw-n+ACI-,
+    +ACI-print(B) +ACM- B has not changed as B has assigned as a new variable+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-add element in tuple by converting in list and then converting it back+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-input+AF8-tuple +AD0- ('Monty Python', 'British', 1969)+AFw-n+ACI-,
+    +ACI-A +AD0- list(input+AF8-tuple)+AFw-n+ACI-,
+    +ACI-A.append('Python')+AFw-n+ACI-,
+    +ACI-print(A)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-word +AD0- +AFs-'1','2','3','4'+AF0AXA-n+ACI-,
+    +ACI-word+AFs- : +AF0- +AD0- +AFs- +AF0- +AFw-n+ACI-,
+    +ACI-print(word)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-L +AD0- +AFs-'one','two','three', 'four', 'five', 'six'+AF0AXA-n+ACI-,
+    +ACI-B +AD0- sorted(L)+AFw-n+ACI-,
+    +ACI-print (L)+AFw-n+ACI-,
+    +ACI-print(B)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-SET+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- convert list to set+AFw-n+ACI-,
+    +ACI-A +AD0- +AFs- 1,2,3,4,4,5,5,6+AF0AXA-n+ACI-,
+    +ACI-B +AD0- set(A) +ACM- convert the list into set and take only unique values+AFw-n+ACI-,
+    +ACI-print(B)+AFw-n+ACI-,
+    +ACI-len(B) +ACM- count the length+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- adding is set+AFw-n+ACI-,
+    +ACI-B.add('Are real numbers') +ACM- add dose not mean it will add only at end it is done randomly+AFw-n+ACI-,
+    +ACI-print(B)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- remove from set+AFw-n+ACI-,
+    +ACI-B.remove('Are real numbers')+AFw-n+ACI-,
+    +ACI-print(B)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Set opoerations in Python+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-A +AD0- +AHs-0,2,4,6,8,+AH0AXA-n+ACI-,
+    +ACI-B +AD0- +AHs-4,6,8,10,12+AH0AXA-n+ACI-,
+    +ACI-print(A +AHw- B) +ACM- this operation do the union +AFw-n+ACI-,
+    +ACI-print(A.union(B)) +ACM- this operation also do the union +AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-print(A +ACY- B) +ACM- this opeartion do the intersection+AFw-n+ACI-,
+    +ACI-print (A.intersection(B)) +ACM- this opeartion also do the intersection+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-print(A - B) +ACM- this do the difference of sets +AFw-n+ACI-,
+    +ACI-print(A.difference(B)) +ACM- this also do the difference of sets +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-list+AF8-1 +AD0- +AFs-5,5,5,5,5,5,5,3+AF0AXA-n+ACI-,
+    +ACI-list+AF8-2 +AD0- +AFs-3,3,5,5,1,7,2+AF0AXA-n+ACI-,
+    +ACI-C +AD0- set(list+AF8-1)+AFw-n+ACI-,
+    +ACI-D +AD0- set(list+AF8-2)+AFw-n+ACI-,
+    +ACI-E +AD0- C.intersection(D)+AFw-n+ACI-,
+    +ACI-f+AD0- list(E)+AFw-n+ACI-,
+    +ACI-print(sorted(f))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Dictionary+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- dictionary is also defined within +AHsAfQBc-n+ACI-,
+    +ACI-A +AD0- +AHsAfQ- +ACM- empty dictionary+AFw-n+ACI-,
+    +ACI-B +AD0- set(+AHsAfQ-) +ACM- empty set+AFw-n+ACI-,
+    +ACIAIwAj- note the diffrenece: empty dictionary is ony set of +AHsAfQA7- empty set is defined by set function+AFw-n+ACI-,
+    +ACI-print(A)+AFw-n+ACI-,
+    +ACI-print(B)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-d+AD0- +AHs-'India': 'INR', 'USA' : 'USD', +AFwAIg-Bangladesh+AFwAIg- : +AFwAIg-TAKA+AFwAIgB9AFw-n+ACI-,
+    +ACI-d+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- replace a value for key in dictionary+AFw-n+ACI-,
+    +ACI-d+AFs-'India'+AF0- +AD0- 'Rs' +ACM- if the key, here 'Inida' is present in the dictionary, it will change the value for key+AFw-n+ACI-,
+    +ACI-d+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- add a key value pair+AFw-n+ACI-,
+    +ACI-d+AFs-'Japan'+AF0- +AD0- 'Yen' +ACM- if the key value pair is not avialble then it will be added in the dictionary+AFw-n+ACI-,
+    +ACI-d+AFw-n+ACI-,
+    +ACIAIwAj- point to note dictionary dose not store the key value pair with any specific order, it just randomly store+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-del d+AFsAXAAi-Bangladesh+AFwAIgBd- +ACM- it delete the key value pair as mentioned in +AFsAXQBc-n+ACI-,
+    +ACI-d+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- sort function dose not work in dictionary like tuple+AFw-n+ACI-,
+    +ACIAIw- but sorted comand gives all key of the dictionary in order+AFw-n+ACI-,
+    +ACI-sorted(d)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- get all key of a dictionary+AFw-n+ACI-,
+    +ACI-d.keys()+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- get all values of dictionary+AFw-n+ACI-,
+    +ACI-d.values()+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Employee+AF8-data +AD0- +AHs- 101:+AFs-'Shiva', 24, 'Content Strategist'+AF0- ,102:+AFs-'Udit',25,'Content Strategist'+AF0-, 103:+AFs-'Sonam', 28,'Sr Manager'+AF0-, 104:+AFs-'Ansari',29,'Product Lead' +AF0-,105:+AFs-'Huzefa',32,'Project Manager' +AF0AfQBc-n+ACI-,
+    +ACI-Employee+AF8-data+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-l +AD0- Employee+AF8-data+AFs-104+AF0AXA-n+ACI-,
+    +ACI-l+AFs-2+AF0AIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-k +AD0- dict(a+AD0-1, b+AD0-2)+AFw-n+ACI-,
+    +ACI-L+AD0- k.get('b', 'NA') +ACM- return the value of the key b+AFw-n+ACI-,
+    +ACI-L+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-M +AD0- k.get('c', 'NA') +ACM- as the key c is not present, it will return NA+AFw-n+ACI-,
+    +ACI-M+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-z +AD0- +AHs-'Jack Dorsey' : 'Twitter' , 'Tim Cook' : 'Apple','Jeff Bezos' : 'Amazon' ,'Mukesh Ambani' : 'RJIO'+AH0AXA-n+ACI-,
+    +ACI-A+AD0- z.values()+AFw-n+ACI-,
+    +ACI-B +AD0- sorted(A)+AFw-n+ACI-,
+    +ACI-B+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-del z+AFs-'Mukesh Ambani'+AF0- +ACM- deleteing an element in dictionary +AFw-n+ACI-,
+    +ACI-z+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-PRACTICE QUESTION+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- QUESTION : Count the total number of orders +AFs-Orders include both processed and returned orders+AF0-.?+AFw-n+ACI-,
+    +ACI-processed+AF8-orders +AD0- +AFs-1152, 1154, 1155, 1156, 1157, 1160, 1161, 1162, 1166, 1169, 1170, 1172, 1176, 1050, 1178, 1051, 1052, 1054, 1058, 1060, 1061, 1062, 1065, 1066, 1067, 1068, 1069, 1076, 1077, 1080, 1081, 1083, 1091, 1085, 1088, 1089, 1131, 1092, 1094, 1095, 1099, 1102, 1103, 1104, 1106, 1107, 1108, 1109, 1111, 1117, 1119, 1121, 1150, 1128, 1129, 1136, 1137, 1139, 1140, 1141, 1144, 1148, 1124+AF0AXA-n+ACI-,
+    +ACI-returned+AF8-orders +AD0- +AFs-1153, 1158, 1159, 1163, 1164, 1165, 1167, 1168, 1171, 1173, 1174, 1175, 1177, 1053, 1055, 1056, 1057, 1059, 1063, 1064, 1070, 1071, 1072, 1073, 1074, 1075, 1078, 1079, 1082, 1084, 1086, 1087, 1090, 1093, 1096, 1097, 1098, 1100, 1101, 1105, 1110, 1112, 1113, 1114, 1115, 1116, 1118, 1120, 1122, 1123, 1125, 1126, 1127, 1130, 1132, 1133, 1134, 1135, 1138, 1142, 1143, 1145, 1146, 1147, 1149, 1151+AF0AXA-n+ACI-,
+    +ACI-A +AD0- len(processed+AF8-orders)+lek-(returned+AF8-orders)+AFw-n+ACI-,
+    +ACI-A+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- QUESTION: In the total orders, identify the 50th order +AFs-Note: Assume the order IDs are being generated consecutively+AF0-.?? +AFw-n+ACI-,
+    +ACIAIw- In order to identify the 50th order, you need to have the list of orders first+ADs- then, since it is mentioned +AFw-n+ACI-,
+    +ACIAIw- that the order IDs are being generated consecutively, +AFw-n+ACI-,
+    +ACIAIw- it is essential to sort the orders list. Finally, you have to identify the 50th order+ADs- it would be at index 49 +AFw-n+ACI-,
+    +ACIAIw- since indexing starts from 0.+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-B +AD0- (processed+AF8-orders)(returned+AF8-orders)+AFw-n+ACI-,
+    +ACI-B.sort()+AFw-n+ACI-,
+    +ACI-B+AFs-49+AF0AXA-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- QUESTION : Is the 50th order a returned order or a processed order?+AFw-n+ACI-,
+    +ACI-1099 in (processed+AF8-orders) +ACM- If it is in procesed+AF8-order the outpt will be true else false+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-QUESTION: What is the last order ID processed? +AFs-Note: Assume the order IDs are being generated consecutively+AF0-?+AFw-n+ACI-,
+    +ACI-B+AFs--1+AF0AIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- QUESTION: Identify the first four orders that were processed. +AFs-Note: Assume the order IDs are being generated consecutively+AF0AXA-n+ACI-,
+    +ACI-B+AFs-0:4+AF0AIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- employee data with key as id of the employee and values as age of the employee+AFw-n+ACI-,
+    +ACI-Employee+AF8-data +AD0Aew-101: 43, 102: 25, 103: 43, 104: 31, 105: 26, 106: 28, 107: 29, 108: 43, 109: 25, 110: 22, 111: 22, 112: 25, 113: 30, 115: 45, 116: 23, 117: 29, 118: 28, 119: 30, 120: 28, 121: 42, 122: 39, 123: 29, 124: 42, 125: 43, 126: 42, 127: 40, 128: 27, 129: 23, 130: 30, 131: 37, 132: 20, 133: 36, 134: 27, 135: 27, 136: 22, 137: 28, 138: 23, 139: 45, 140: 39, 141: 29, 142: 33, 143: 39, 145: 34, 146: 26, 147: 30, 148: 38, 149: 29, 150: 24, 151: 28, 152: 34, 153: 42, 154: 29, 155: 23, 156: 31, 158: 25, 160: 45, 161: 42, 162: 27, 163: 24, 164: 20, 166: 24, 167: 28, 168: 20, 169: 33, 170: 34, 171: 37, 172: 45, 173: 35, 174: 23, 175: 44, 176: 27, 177: 30, 178: 26, 179: 27+AH0- +AFw-n+ACI-,
+    +ACI-type(Employee+AF8-data)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-QUESTION: Identify the senior most employees age+AFw-n+ACI-,
+    +ACI-A +AD0- Employee+AF8-data.values()+AFw-n+ACI-,
+    +ACI-print(max(A))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- QUESTION: Find out the age of the employee with employee id 159.+AFw-n+ACI-,
+    +ACI-Employee+AF8-data.get(159,'NA')+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- QUESTION: Count the total number of employees in the organisation?+AFw-n+ACI-,
+    +ACI-len(A)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- QUESTION:  Calculate the mean age of the employees.+AFw-n+ACI-,
+    +ACI-B +AD0- sum(A)+AFw-n+ACI-,
+    +ACI-C+AD0-B/len(A)+AFw-n+ACI-,
+    +ACI-C+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Perform the following two tasks and then calculate the updated mean age of the employees:+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACIAIw-Task 1: Update the ages of the employees with employee ids 104,140 and 164 as 27. +AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACIAIw-Task 2: Remove the employ with employee id 143.+AFw-n+ACI-,
+    +ACI-Employee+AF8-data+AFs-104+AF0- +AD0- 27+AFw-n+ACI-,
+    +ACI-Employee+AF8-data+AFs-140+AF0- +AD0- 27+AFw-n+ACI-,
+    +ACI-Employee+AF8-data+AFs-164+AF0- +AD0- 27+AFw-n+ACI-,
+    +ACI-143 in Employee+AF8-data +ACM- found there is no 143 element key+AFw-n+ACI-,
+    +ACI-A +AD0- Employee+AF8-data.values()+AFw-n+ACI-,
+    +ACI-B +AD0- sum(A)/len(A)+AFw-n+ACI-,
+    +ACI-B+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Binary operator+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- +AD0- is an assignment operator which assign the value of an expression at right to the variable at right+AFw-n+ACI-,
+    +ACIAIw- +AD0APQ- is  an relational operator which compares to operand and return a bulian value+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-10 +AD0APQ- 10+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-10 +AD0APQ- 5+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-10 +ACEAPQ-10 +ACM- not equal to+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-10 +ACEAPQ- 5+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-10+AD4APQ-5+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-10+AD4- 5+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-5+ADw-10+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-5 +ADwAPQ- 10+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Decission+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-X +AD0- 20+AFw-n+ACI-,
+    +ACI-print(X)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-x +AD0- int(input('enter a number:'))+AFw-n+ACI-,
+    +ACI-if x +ACU- 2 +AD0APQ- 0:+AFw-n+ACI-,
+    +ACI-    print(x,'the number is even')+AFw-n+ACI-,
+    +ACI-else:+AFw-n+ACI-,
+    +ACI-    print(x,'the number is odd')+AFw-n+ACI-,
+    +ACI-    +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-logical opertion ike and / or / not+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI- Y +AD0- int(input('Enter your age: '))+AFw-n+ACI-,
+    +ACI-if Y +ADwAPQ- 18 or Y +AD4APQ- 60 :+AFw-n+ACI-,
+    +ACI-    print(+AFwAIg-welcome to the party+AFwAIg-)+AFw-n+ACI-,
+    +ACI-else:+AFw-n+ACI-,
+    +ACI-    print(+AFwAIg-Sorry+ACE- You do not fit to the criteria+AFwAIg-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-elif+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIwAj- if bil is +AD4- 5000 a flat dicout voucher of 1000 is offered if less than 5000 but more than 2500+AFw-n+ACI-,
+    +ACIAIwAj- a dicount of 500 is offered, if less than 2500 and more than 1000 then dicount of 250, if less than 100 no discount voucher+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-z +AD0- int(input('Input purchae bill amount:'))+AFw-n+ACI-,
+    +ACI-if z +AD4APQ- 5000:+AFw-n+ACI-,
+    +ACI-    print(+AFwAIg-You won a discount of Rs.1000 on next purchase+AFwAIg-)+AFw-n+ACI-,
+    +ACI-elif z +AD4APQ- 2500:+AFw-n+ACI-,
+    +ACI-    print('You won an discount of Rs. 500 on next urchase')+AFw-n+ACI-,
+    +ACI-elif z +AD4APQ- 1000:+AFw-n+ACI-,
+    +ACI-    print('You won an discount of Rs.250 on next purchase')+AFw-n+ACI-,
+    +ACI-else: +AFw-n+ACI-,
+    +ACI-    print('Oops+ACE- You are not eligible for any discount')+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-World+AF8-Cup +AD0- +AHs-2019:+AFs-'England', 'Newzeland'+AF0-, 2015: +AFsAXAAi-India+AFwAIg-, 'Newzeland'+AF0-,2011:+AFs-'India', 'Srilanka'+AF0-, 2007: +AFs-'India', +AFwAIg-Westindies+AFwAIgBd-, 'Rajat':+AFs-'Math',91+AF0AfQBc-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-Year +AD0- int(input(+AFwAIg-Enter year to check India made it to final or not :+AFwAIg-))+AFw-n+ACI-,
+    +ACI-if Year in World+AF8-Cup :+AFw-n+ACI-,
+    +ACI-    if 'India' in World+AF8-Cup+AFs-Year+AF0- :+AFw-n+ACI-,
+    +ACI-        print('India made it to Final')+AFw-n+ACI-,
+    +ACI-else:+AFw-n+ACI-,
+    +ACI-    print('India did not played World Cup Final')+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-X +AD0- 12+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-if X +AD4- 10 +ACY- X +ADw- 15:+AFw-n+ACI-,
+    +ACI-    print('YES')+AFw-n+ACI-,
+    +ACI-else:+AFw-n+ACI-,
+    +ACI-    print('No')+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-indentation error+ACoAIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-X +AD0- 12+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-if (X +AD4- 10 +ACY- X +ADw- 15):+AFw-n+ACI-,
+    +ACI-print('YES')+AFw-n+ACI-,
+    +ACI-else:+AFw-n+ACI-,
+    +ACI-print('No')+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-a+AD0-10+AFw-n+ACI-,
+    +ACI-b+AD0-16+AFw-n+ACI-,
+    +ACI-c+AD0-20+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-if(  b +ADw- a, a +AD4- c ):+AFw-n+ACI-,
+    +ACI-    print(+AFwAIg-a+AFwAIg-)+AFw-n+ACI-,
+    +ACI-elif( b +AD4- a, c +ADw- b):+AFw-n+ACI-,
+    +ACI-    print(+AFwAIg-b+AFwAIg-)+AFw-n+ACI-,
+    +ACI-else:+AFw-n+ACI-,
+    +ACI-     print(+AFwAIg-c+AFwAIg-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-input+AF8-list +AD0- +AFs-5,5,5,5,5,5,5,3+AF0-, +AFs-3,3,5,5,1,7,2+AF0AXA-n+ACI-,
+    +ACI-list+AF8-1 +AD0- input+AF8-list+AFs-0+AF0AXA-n+ACI-,
+    +ACI-list+AF8-2 +AD0- input+AF8-list+AFs-1+AF0AXA-n+ACI-,
+    +ACI-C +AD0- set(list+AF8-1)+AFw-n+ACI-,
+    +ACI-D +AD0- set(list+AF8-2)+AFw-n+ACI-,
+    +ACI-print(C.intersection(D))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- question : Write a code to check if the string in input+AF8-str starts with a vowel or not. Print capital YES or NO.+AFw-n+ACI-,
+    +ACI-input+AF8-str +AD0- 'analytics'+AFw-n+ACI-,
+    +ACI-A +AD0- input+AF8-str+AFs-0+AF0AXA-n+ACI-,
+    +ACI-if A +AD0APQ-'a':+AFw-n+ACI-,
+    +ACI-    print('YES')+AFw-n+ACI-,
+    +ACI-elif A +AD0APQ- 'e':+AFw-n+ACI-,
+    +ACI-    print('YES')+AFw-n+ACI-,
+    +ACI-elif A +AD0APQ- 'i':+AFw-n+ACI-,
+    +ACI-    print('YES')+AFw-n+ACI-,
+    +ACI-elif A +AD0APQ- 'o':+AFw-n+ACI-,
+    +ACI-    print('YES')+AFw-n+ACI-,
+    +ACI-elif A +AD0APQ- 'u':+AFw-n+ACI-,
+    +ACI-    print('YES')+AFw-n+ACI-,
+    +ACI-else:+AFw-n+ACI-,
+    +ACI-    print('NO')+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-input+AF8-str +AD0- 'bmaunmdbraai'+AFw-n+ACI-,
+    +ACI-message1 +AD0-input+AF8-str+AFs-0+AF2KegBf-str+AFs-2+AF2KegBf-str+AFs-4+AF2KegBf-str+AFs-6+AF2KegBf-str+AFs-8+AF2KegBf-str+AFs-10+AF0AXA-n+ACI-,
+    +ACI-message2 +AD0- input+AF8-str+AFs-1+AF2KegBf-str+AFs-3+AF2KegBf-str+AFs-5+AF2KegBf-str+AFs-7+AF2KegBf-str+AFs-9+AF2KegBf-str+AFs-11+AF0AXA-n+ACI-,
+    +ACI-u +AD0- (message1,message2)+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-S +AD0- 'Himachal Pradesh'+AFw-n+ACI-,
+    +ACI-for B in S: +ACM- you can put any chareter like B or S or ch or anything+AFw-n+ACI-,
+    +ACI-    print(B) +ACM- after execution of print it insert a new line chareceter +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-S +AD0- 'Himachal Pradesh'+AFw-n+ACI-,
+    +ACI-for B in S: +ACM- you can put any chareter like B or S or ch or anything+AFw-n+ACI-,
+    +ACI-    print(B, end +AD0- '+ADs-') +ACM- here new line chareter has changed with +AEAAIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-student+AF8-data +AD0- +AHs-1:+AFs-'Amar',43+AF0-,2:+AFsAXAAi-Shyam+AFwAIg-,41+AF0-,3:+AFs-'Taresh',38+AF0-,4:+AFs-'Bhagyesh', 40+AF0-, 5:+AFs-'Suresh',45+AF0AfQBc-n+ACI-,
+    +ACI-for key,val in student+AF8-data.items(): +ACM- items() returns key, value pair of dictioniary+AFw-n+ACI-,
+    +ACI-    print(key,val)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-for key in student+AF8-data.keys():+AFw-n+ACI-,
+    +ACI-    print(key)+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-for val in student+AF8-data.values():+AFw-n+ACI-,
+    +ACI-    print(val)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Range+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-l +AD0- list(range(1,11)) +ACM- range dose not include the last value of range+AFw-n+ACI-,
+    +ACI-l+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-t +AD0- tuple(range(1,21))+AFw-n+ACI-,
+    +ACI-t+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-for s in range(1,21):+AFw-n+ACI-,
+    +ACI-    print(s, end +AD0- +AFwAIg- +ACQ- +AFwAIg-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKg-range fanction wiith step function+ACoAIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-print(list(range(1,51)))+AFw-n+ACI-,
+    +ACI-print(list(range(51,1,-3)))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Prime numbers between 1 and 20+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-for n in range(2,25): +ACM- as 1 is not prime no, range shuold start from 2+ADs- else it will include 1 also in the output+AFw-n+ACI-,
+    +ACI-    for i in range(2, i):+AFw-n+ACI-,
+    +ACI-        if n +ACU- i +AD0APQ- 0:   +AFw-n+ACI-,
+    +ACI-            break+AFw-n+ACI-,
+    +ACI-    if flag :+AFw-n+ACI-,
+    +ACI-        print(n)        +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Question : Complete this piece of code for calculating the element-wise difference between two lists and storing them in L3.+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-L1 +AD0- +AFs-10, 20, 30, 24, 18+AF0AXA-n+ACI-,
+    +ACI-L2 +AD0- +AFs-8, 14, 15, 20, 10+AF0AXA-n+ACI-,
+    +ACI-L3+AD0AWwBdAFw-n+ACI-,
+    +ACI-for  i in range(len(L1)): +ACM- in ca also for i in range(len(L2))+ADs- both are same meaning ful+AFw-n+ACI-,
+    +ACI-    L3.append(L2+AFs-i+AF0- - L1+AFs-i+AF0-)+AFw-n+ACI-,
+    +ACI-L3+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-A +AD0- 'amar'+AFw-n+ACI-,
+    +ACI-print(A+AFs-0+AF0-,+AFs-1+AF0-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-name +AD0- input()+AFw-n+ACI-,
+    +ACI-for i in range(0,len(name)):+AFw-n+ACI-,
+    +ACI-    print(name+AFs-i+AF0-, end +AD0AXAAiAFwAIg-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-name +AD0- input()+AFw-n+ACI-,
+    +ACI-print(name.capitalize()) +ACM- capitalize function convert a letter in sentence sace+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-A +AD0- +AFs-'VARMA', 'raj', 'Gupta', 'SaNdeeP'+AF0AXA-n+ACI-,
+    +ACI-a +AD0- A+AFs-0+AF0AXA-n+ACI-,
+    +ACI-b +AD0- A+AFs-1+AF0AXA-n+ACI-,
+    +ACI-c +AD0- A+AFs-2+AF0AXA-n+ACI-,
+    +ACI-d +AD0- A+AFs-3+AF0AXA-n+ACI-,
+    +ACI-B +AD0- +AFs-a.capitalize(), b.capitalize(), c.capitalize(), d.capitalize()+AF0AXA-n+ACI-,
+    +ACI-B+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-A +AD0- +AFs-'VARMA', 'raj', 'Gupta', 'SaNdeeP'+AF0AXA-n+ACI-,
+    +ACI-print(+AFs-A+AFs-0+AF0-.capitalize(),A+AFs-1+AF0-.capitalize(),A+AFs-2+AF0-.capitalize(),A+AFs-3+AF0-.capitalize()+AF0-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Event based iteratoion+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- while loop: this will iterate until user type quit+AFw-n+ACI-,
+    +ACI-ch +AD0- +AFwAIgBcACIAXA-n+ACI-,
+    +ACI-while ch +ACEAPQ- 'quit':+AFw-n+ACI-,
+    +ACI-    ch +AD0- input()+AFw-n+ACI-,
+    +ACI-    print(ch)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-create a list of negative even numbers from -20 to 0 (-20 included and 0 not included)? +AFw-n+ACI-,
+    +ACI-sorted(set(range(-2, -21, -2))) +ACM- sorted has converted the set into list of elements in ascending order+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-list(range(-20, -1, 2))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-d +AD0- +AHs-0: 'Fish', 1: 'Bird', 2: 'Mammal'+AH0AXA-n+ACI-,
+    +ACI-for i in d:+AFw-n+ACI-,
+    +ACI-    print(i)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-List Comprehension: A comprehensive way to make a list+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-l1 +AD0- +AFs-'automobile', 'maruti', 'honda', 'bmw'+AF0AXA-n+ACI-,
+    +ACI-l2 +AD0- +AFsAXQBc-n+ACI-,
+    +ACI-for i in l1 :         +ACM- here i iterate each element of l1+AFw-n+ACI-,
+    +ACI-    l2.append(len(i))+AFw-n+ACI-,
+    +ACI-l2+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-l3 +AD0- +AFs- len(i) for i in l1+AF0AXA-n+ACI-,
+    +ACI-l3+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-iterate inside two lists at a time+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-for i,y in zip(l1,l2):+AFw-n+ACI-,
+    +ACI-    print(i,'+ACoAKg-',y)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-n +AD0- int(input())+AFw-n+ACI-,
+    +ACI-print(+AFs-i+ACoAKg-2 for i in range(1,(n))+AF0-) +ACM- will include square from 1 to n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-S +AD0- +AFs-x+ACoAKg-2 for x in range(10)+AF0- +ACM- it will start from 0+AFw-n+ACI-,
+    +ACI-S+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-dictionary comprehension+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-l1 +AD0- +AFs-'automobile', 'maruti', 'honda', 'bmw'+AF0AXA-n+ACI-,
+    +ACI-d +AD0- +AHs-i : len(i) for i in l1+AH0AXA-n+ACI-,
+    +ACI-d+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-set comprehension+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-s1 +AD0- +AHs-len(i) for i in l1+AH0AXA-n+ACI-,
+    +ACI-for i in l1 :+AFw-n+ACI-,
+    +ACI-    s1.add(i)+AFw-n+ACI-,
+    +ACI-s1+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- return the vowels of a given word in a form of set of vowels+AFw-n+ACI-,
+    +ACI-word +AD0- input('Put your word :')+AFw-n+ACI-,
+    +ACI-vowels+AF8-word +AD0- +AHs-i for i in word if i in 'aeiou'+AH0AXA-n+ACI-,
+    +ACI-vowels+AF8-word+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Creating a dictionary consisting of even natural numbers as key and square of each element as value +AFw-n+ACI-,
+    +ACI-ordinary+AF8-dict +AD0AewB9AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-for i in range(2,21):+AFw-n+ACI-,
+    +ACI-    if i +ACU- 2 +AD0APQ- 0:+AFw-n+ACI-,
+    +ACI-        ordinary+AF8-dict+AFs-i+AF0- +AD0- i+ACoAKg-2+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-print(ordinary+AF8-dict)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-d +AD0- +AHs-i : i+ACoAKg-2 for i in range(1,10)+AH0AXA-n+ACI-,
+    +ACI-print(d)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Extract the words that start with a vowel from a list using list comprehensions.+AFw-n+ACI-,
+    +ACI-input+AF8-list+AD0AWw-'wood', 'old', 'apple', 'big', 'item', 'euphoria', 'India'+AF0- +AFw-n+ACI-,
+    +ACI-L +AD0- +AFsAXQ-+AFw-n+ACI-,
+    +ACI-for i in input+AF8-list:+AFw-n+ACI-,
+    +ACI-    if i+AFs-0+AF0- in 'aeiouAEIOU':+AFw-n+ACI-,
+    +ACI-        L.append(i)+AFw-n+ACI-,
+    +ACI-print(L)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-input+AF8-list +AD0- list(range(1,100)) +ACM- create a dictionary where the keys are multiples of 3 among the first 100 natural numbers+AFw-n+ACI-,
+    +ACIAIw- and each value is the cube of the key.+AFw-n+ACI-,
+    +ACI-output+AF8-dict+AD0- +AHs-val : val+ACoAKg-3 for val in input+AF8-list if val +ACU- 3 +AD0APQ- 0+AH0AXA-n+ACI-,
+    +ACI-print(output+AF8-dict)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-input+AF8-list +AD0- list(range(1,100))+AFw-n+ACI-,
+    +ACI-output+AF8-dict +AD0- +AHsAfQBc-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-for val in input+AF8-list:+AFw-n+ACI-,
+    +ACI-    if val +ACU- 3 +AD0APQ- 0:+AFw-n+ACI-,
+    +ACI-        output+AF8-dict+AFs-val+AF0- +AD0- val+ACoAKg-3+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-print(+AFs-i for i in +AFwAIg-abc+AFwAIg- for j in +AFwAIg-def+AFwAIgBd-) +ACM- Question: what is the output?+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-d +AD0- +AHs-x.upper(): x+ACo-3 for x in 'acbd'+AH0- +ACM- Question: what is the output?+AFw-n+ACI-,
+    +ACI-print(d)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-FUNCTION+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- function for a factorial of a number+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-def factorial(n):  +ACM- n is called positional argument+AFw-n+ACI-,
+    +ACI-    f +AD0- 1+AFw-n+ACI-,
+    +ACI-    for i in range(1, n):+AFw-n+ACI-,
+    +ACI-        f +ACoAPQ- i+AFw-n+ACI-,
+    +ACI-        +AFw-n+ACI-,
+    +ACI-    return f+AFw-n+ACI-,
+    +ACI-factorial(10)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-n +AD0- input('Put a number :') +ACM- learn the error in this program and check the next one+AFw-n+ACI-,
+    +ACI-def factorial(n):+AFw-n+ACI-,
+    +ACI-    f +AD0- 1+AFw-n+ACI-,
+    +ACI-    for i in range(1, n):+AFw-n+ACI-,
+    +ACI-        f +ACoAPQ- i+AFw-n+ACI-,
+    +ACI-        +AFw-n+ACI-,
+    +ACI-    return f+AFw-n+ACI-,
+    +ACI-factorial(n)+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACIAIw-input () in python takes input from user and return you a string.If you need a integer you need to type cast the input +AFw-n+ACI-,
+    +ACIAIw-(string) to a integer as shown below , then the result will be correct.+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-n +AD0- int(input('Put a number :')) +AFw-n+ACI-,
+    +ACI-def factorial(n):+AFw-n+ACI-,
+    +ACI-    f +AD0- 1+AFw-n+ACI-,
+    +ACI-    for i in range(1, n):+AFw-n+ACI-,
+    +ACI-        f +ACoAPQ- i+AFw-n+ACI-,
+    +ACI-        +AFw-n+ACI-,
+    +ACI-    return f+AFw-n+ACI-,
+    +ACI-factorial(n)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- QESTION: Create a function squared(), which takes x and y as arguments and returns the x+ACoAKg-y value. For e.g., if x +AD0- 2 and y +AD0- 3 , then the output is 8.+AFw-n+ACI-,
+    +ACIAIw-Sample Input: +AFs-'6','7'+AF0AXA-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-def exponent(x,y): +ACM- x,y are positional arguments+AFw-n+ACI-,
+    +ACI-    a +AD0- x+AFw-n+ACI-,
+    +ACI-    b +AD0- y+AFw-n+ACI-,
+    +ACI-    e +AD0- x+ACoAKg-y+AFw-n+ACI-,
+    +ACI-    return e+AFw-n+ACI-,
+    +ACI-exponent(6,7)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-input+AF8-list +AD0- +AFs-6,7+AF0AXA-n+ACI-,
+    +ACI-x +AD0- int(input+AF8-list+AFs-0+AF0-)+AFw-n+ACI-,
+    +ACI-y +AD0- int(input+AF8-list+AFs-1+AF0-)+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-def exponent (a,b):+AFw-n+ACI-,
+    +ACI-    e +AD0- a+ACoAKg-b+AFw-n+ACI-,
+    +ACI-    return e+AFw-n+ACI-,
+    +ACI-exponent(x,y)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Function Argument+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-def fun (name, age +AD0- 30, city +AD0- 'mumbai'):+ACM- 35 and mumbai are default values of parameters+AFw-n+ACI-,
+    +ACI-    print('name : ',name) +ACM- rerturn statment+AFw-n+ACI-,
+    +ACI-    print('age +AD0-',  age)+AFw-n+ACI-,
+    +ACI-    print('city +AD0-', city)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-fun('Amar',42,'Kolkata') +ACM- here default values are not taken as new values are assigned +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-fun('Amarit') +ACM- here default values will be taken+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- multiple values can be assigned to a single parameter such kind of multiple values are assigned by +ACo- mark followed by parameter+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-def special(+ACo- multi):+AFw-n+ACI-,
+    +ACI-    print(multi)+AFw-n+ACI-,
+    +ACI-special('Amar',42,'Mumbai','Salaried') +ACM- key word argument+AFw-n+ACI-,
+    +ACIAIw- the given values are stored in the name of variable named multi in the form of a tuple+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-def func(x, y +AD0- 1):+AFw-n+ACI-,
+    +ACI-    z +AD0- x +ACo- y  x  y+AFw-n+ACI-,
+    +ACI-    return z+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-func(2, func(3))+ACM- at first x +AD0- 3 with y defalt valur which is +AD0- 7, nexy x +AD0- 2, y +AD0-7 will be used to +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-LAMDA FUNCTION+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- traditional way of writing a function+AFw-n+ACI-,
+    +ACI-def sum(a,b):+AFw-n+ACI-,
+    +ACI-    return (a)+AFw-n+ACI-,
+    +ACI-sum(3,4)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- using lamda function in single line+AFw-n+ACI-,
+    +ACI-sum +AD0- lambda x,y : x +ACM- sum holds a function +AFw-n+ACI-,
+    +ACI-sum(2,3) +ACM- that function is called for parameters mentioned+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-N +AD0- lambda n : +AFwAIg-even+AFwAIg- if n +ACU- 2 +AD0APQ- 0 else +AFwAIg-odd+AFwAIg- +ACM- here N holds the function written after :+AFw-n+ACI-,
+    +ACI-N(10)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Greater +AD0- lambda X,Y : X if X +AD4- Y else Y +ACM- finder greater number +AFw-n+ACI-,
+    +ACI-Greater(5,4)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-MAP FILTER +ACY- REDUCE FUNCTION+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-t +AD0- (1,2,3,4,5)+AFw-n+ACI-,
+    +ACI-square +AD0- map(lambda x: x+ACoAKg-2, t) +ACM- here map function map the lamda function on each element of ierable tuple and store it +AFw-n+ACI-,
+    +ACI-print(list(square)) +ACM- print the list fromed list out of the element of map function+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- map function t store as double of each element of list+AFw-n+ACI-,
+    +ACI-L +AD0- +AFs-9,8,7,6,5+AF0AXA-n+ACI-,
+    +ACI-Double +AD0- map(lambda x: x+ACo-2,L)+AFw-n+ACI-,
+    +ACI-print(Double) +ACM- it will print the object of map function which is iterable object+AFw-n+ACI-,
+    +ACI-print(list(Double))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- same result by def function +AFw-n+ACI-,
+    +ACI-def square(n):+AFw-n+ACI-,
+    +ACI-    return n+ACo-2+AFw-n+ACI-,
+    +ACI-print(map(square,L))+AFw-n+ACI-,
+    +ACI-print(list(map(square,L)))+AFw-n+ACI-,
+    +ACI-    +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- filter function to filter the nae start with I+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-S +AD0- +AFs-'Aman', 'Ishan', 'Ipshita','Indra', 'Brojo'+AF0AXA-n+ACI-,
+    +ACI-names+AF8-start+AF8-I +AD0- filter(lambda x : x.startswith('I'), S)+AFw-n+ACI-,
+    +ACI-print(list(names+AF8-start+AF8-I))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Roll +AD0- +AFs-25,22,30,15,17,35,60,67+AF0AXA-n+ACI-,
+    +ACI-Divby5 +AD0- lambda x: x +ACU- 5 +AD0APQ- 0+AFw-n+ACI-,
+    +ACI-New+AF8-list +AD0- list(filter(Divby5, Roll))+AFw-n+ACI-,
+    +ACI-print(New+AF8-list)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Roll +AD0- +AFs-25,22,30,15,17,35,60,67+AF0AXA-n+ACI-,
+    +ACI-def Divby5(x): +AFw-n+ACI-,
+    +ACI-    return x +ACU- 5 +AD0APQ- 0+AFw-n+ACI-,
+    +ACI-New+AF8-list +AD0- list(filter(Divby5, Roll))+AFw-n+ACI-,
+    +ACI-print(New+AF8-list)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- print the name of student from the dictionary whos age is more than 15+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-student +AD0- +AHs- 1: +AFs-'Aman', 22+AF0-, 2: +AFsAXAAi-Raji+AFwAIg-, 20+AF0-, 3: +AFs-'Krishna', 14+AF0-, 4:+AFs-'Ayush',12+AF0AfQ- +ACM- be definition +AFw-n+ACI-,
+    +ACI-def selected+AF8-name (x):+AFw-n+ACI-,
+    +ACI-    return x+AFs-1+AF0- +AD4- 15+AFw-n+ACI-,
+    +ACI-print(list(filter(selected+AF8-name, student.values())))+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-print(list(filter( lambda x : x+AFs-1+AF0- +AD4- 15  , student.values()))) +ACM- by lambda function +AFw-n+ACI-,
+    +ACI-print(len(list((filter(lambda x: x+AFs-1+AF0- +AD4- 15, student.values())))))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- factorial of a number by reduce function+ADs- reduce is not an inbuild function, it need to impoort from an external module named +AFw-n+ACI-,
+    +ACIAIw- named functools+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-P +AD0- int(input('Put a number : '))+AFw-n+ACI-,
+    +ACI-from functools import reduce+AFw-n+ACI-,
+    +ACI-print(reduce (lambda x,y: x+ACo-y, range(1,P)))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHs-
+    +ACI-scrolled+ACI-: true
+   +AH0-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Using the function Map, count the number of words that start with +AOIAgACY-S+AOIAgACZ- in input+AF8-list.+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-Word +AD0- +AFs-'Santa Cruz','Santa fe','Mumbai','Delhi'+AF0AXA-n+ACI-,
+    +ACI-count +AD0- list(map(lambda x : x+AFs-0+AF0- +AD0APQ- 'S', Word)).count(True)+AFw-n+ACI-,
+    +ACI-print(L)+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Using the function Map, count the number of words that start with +AOIAgACY-S+AOIAgACZ- in input+AF8-list.+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACIAIw- Using the function Map, count the number of words that start with +AOIAgACY-S+AOIAgACZ- in input+AF8-list.+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-Word +AD0- +AFs-'Santa Cruz','Santa fe','Mumbai','Delhi'+AF0AXA-n+ACI-,
+    +ACI-count +AD0- list(map(lambda x : x+AFs-0+AF0- +AD0APQ- 'S', Word)).count(True)+AFw-n+ACI-,
+    +ACI-print(count)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Create a list +AOIAgACY-name+AOIAgACZ- consisting of the combination of the first name and the second name from list 1 and 2 respectively. +AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-L +AD0- +AFs- +AFs-'Ankur','Avik','Kiran','Nitin'+AF0-,+AFs-'Narang','Sarkar','R','Sareen'+AF0AXQBc-n+ACI-,
+    +ACI-l1 +AD0- L+AFs-0+AF0AXA-n+ACI-,
+    +ACI-l2 +AD0- L+AFs-1+AF0AXA-n+ACI-,
+    +ACI-name +AD0- map(lambda x, y : x +AFwAIg- +AFwAIg- y,l1,l2)+AFw-n+ACI-,
+    +ACI-print(list(name))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Extract a list of numbers that are multiples of 5 from a list of integers named input+AF8-list.+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-L3 +AD0- +AFs-1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50+AF0AXA-n+ACI-,
+    +ACI-def multiple+AF8-5 (x) :+AFw-n+ACI-,
+    +ACI-    return x +ACU- 5 +AD0APQ- 0+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-l4 +AD0- list(filter(multiple+AF8-5 , L3))+AFw-n+ACI-,
+    +ACI-print(l4)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- if use map fnction+AFw-n+ACI-,
+    +ACI-l5 +AD0- list(map(multiple+AF8-5, L3))+AFw-n+ACI-,
+    +ACI-print(l5)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-You are given a list of strings such as input+AF8-list +AD0- +AFs-'hdjk', 'salsap', 'sherpa'+AF0-.+AFw-n+ACI-,
+    +ACIAIw-Extract a list of names that start with an +AOIAgACY-s+AOIAgACZ- and end with a +AOIAgACY-p+AOIAgACZ- (both 's' and 'p' are lowercase) in input+AF8-list.+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-input+AF8-list +AD0- +AFs-'soap','sharp','shy','silent','ship','summer','sheep'+AF0AXA-n+ACI-,
+    +ACI-def name (x) :+AFw-n+ACI-,
+    +ACI-    if x+AFs-0+AF0- +AD0APQ- 's' and x+AFs--1+AF0- +AD0APQ-'p' :+AFw-n+ACI-,
+    +ACI-        return x+AFw-n+ACI-,
+    +ACI-name +AD0- list(filter( name, input+AF8-list))+AFw-n+ACI-,
+    +ACI-print(name)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Using the Reduce function, concatenate a list of words in input+AF8-list, and print the output as a string.+AFw-n+ACI-,
+    +ACI-input+AF8-list +AD0- +AFs-'All','you','have','to','fear','is','fear','itself'+AF0AXA-n+ACI-,
+    +ACI-from functools import reduce+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-print(reduce(lambda x,y : x  +AFwAIg- +AFwAIg-, input+AF8-list))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- You are given a list of numbers such as input+AF8-list +AD0- +AFs-65,76,87,23,12,90,99+AF0-. +AFw-n+ACI-,
+    +ACIAIw- Find and print the largest number in input+AF8-list using the reduce() function.+AFw-n+ACI-,
+    +ACI-input+AF8-list +AD0- +AFs-65,76,87,23,12,90,99+AF0AXA-n+ACI-,
+    +ACI-from functools import reduce+AFw-n+ACI-,
+    +ACI-Largest +AD0- print(reduce(lambda x,y : x if x +AD4- y else y, input+AF8-list))+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Objective Oriented Program+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-class Rectangle :     +ACM- class charecter first letter need to be capital followed by :+AFw-n+ACI-,
+    +ACI-    def +AF8AXw-init+AF8AXw- (self):+AFw-n+ACI-,
+    +ACI-        self.length +AD0- 10+AFw-n+ACI-,
+    +ACI-        self.breadth +AD0- 8+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-rect +AD0- Rectangle() +ACM- creation of an object by calling the name of the class followed by ()+AFw-n+ACI-,
+    +ACI-print('Length +AD0-', rect.length, 'Breadth +AD0- ', rect.breadth)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- dynamically assign the attribute values during object creation +AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-class Rectangle :                         +ACM- forming class+AFw-n+ACI-,
+    +ACI-    def +AF8AXw-init+AF8AXw- (self,length,breadth):+AFw-n+ACI-,
+    +ACI-        self.length +AD0- length             +ACM- instance variable+AFw-n+ACI-,
+    +ACI-        self.breadth +AD0- breadth           +ACM- instance variable+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-rect +AD0- Rectangle(10,5)                   +ACM- dynamic value assignment+AFw-n+ACI-,
+    +ACI-print('Length +AD0-', rect.length, 'Breadth +AD0- ', rect.breadth)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-rect +AD0- Rectangle(21,9)  +ACM- +ACM- dynamic value assignment+AFw-n+ACI-,
+    +ACI-print('Length +AD0-', rect.length, 'Breadth +AD0- ', rect.breadth)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-CLASS +ACY- Instance Variable+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-class Circle :                   +ACM- defined the Circle variable+AFw-n+ACI-,
+    +ACI-    pi +AD0- 3.14                    +ACM- here pi is a class variable+ADs- which remain as unchanged +AFw-n+ACI-,
+    +ACI-    def +AF8AXw-init+AF8AXw- (self,radius):  +ACM- radius is instance variable+ADs- which changes dynamically +AFw-n+ACI-,
+    +ACI-        self.radius +AD0- radius+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-C1 +AD0- Circle(5)+AFw-n+ACI-,
+    +ACI-print('Radius of Circle +AD0-', C1.radius,'value of pi +AD0-', C1.pi)+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-C2 +AD0- Circle(10)+AFw-n+ACI-,
+    +ACI-print('Radius of Circle +AD0- ', C2.radius,'Value of pi +AD0- ', C2.pi)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Change of Class Variabes+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Circle.pi +AD0- 3.1436                                                +ACM- this will assigna new value to the Class variable+AFw-n+ACI-,
+    +ACI-print('Radius of circle +AD0- ', C1.radius, 'Value of pi +AD0- ', C1.pi)+AFw-n+ACI-,
+    +ACI-C3 +AD0- Circle (27)+AFw-n+ACI-,
+    +ACI-print('Radius of circle +AD0- ', C3.radius, 'Value of pi +AD0- ', C3.pi)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Question on Class+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- which of the following will creatte an instance to this class 1. student1 +AD0- Student(20,30), 2. student1 +AD0- Student(10, +AFwAIg-Ravi+AFwAIg-)+AFw-n+ACI-,
+    +ACIAIw- 3. student2 +AD0- Student(), 4. error+AFw-n+ACI-,
+    +ACIAIw- class Student:+AFw-n+ACI-,
+    +ACIAIw-   def +AF8AXw-init+AF8AXw-(self):+AFw-n+ACI-,
+    +ACIAIw-        self.age +AD0- 10+AFw-n+ACI-,
+    +ACIAIw-        self.name +AD0- +AFwAIg-Name+AFwAIgBc-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-class Student:+AFw-n+ACI-,
+    +ACI-    def +AF8AXw-init+AF8AXw-(self):+AFw-n+ACI-,
+    +ACI-        self.age +AD0- 10+AFw-n+ACI-,
+    +ACI-        self.name +AD0- 'Ravi'+AFw-n+ACI-,
+    +ACI-student2 +AD0- Student()+AFw-n+ACI-,
+    +ACI-print(student2.age, student2.name)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Which of the declarations below will throw an error? 1. student1 +AD0- Student(12,+AFwAIg-Raj+AFwAIg-,24), 2. student1 +AD0- Student(12,+AFwAIg-Sam+AFwAIg-,10)+AFw-n+ACI-,
+    +ACIAIw- 3. student1 +AD0- Student(+AFwAIg-Shiv+AFwAIg-,4, 3), 4. None+AFw-n+ACI-,
+    +ACIAIw- class Student:+AFw-n+ACI-,
+    +ACIAIw-    standard +AD0- 'IV'+AFw-n+ACI-,
+    +ACIAIw-    def +AF8AXw-init+AF8AXw-(self,age,name,Cid):+AFw-n+ACI-,
+    +ACIAIw-        self.age +AD0- age+AFw-n+ACI-,
+    +ACIAIw-        self.name +AD0- name+AFw-n+ACI-,
+    +ACIAIw-        self.id +AD0- Cid+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-class Student:+AFw-n+ACI-,
+    +ACI-    standard +AD0- 'IV'+AFw-n+ACI-,
+    +ACI-    def +AF8AXw-init+AF8AXw-(self,age,name,Cid):+AFw-n+ACI-,
+    +ACI-        self.age +AD0- age+AFw-n+ACI-,
+    +ACI-        self.name +AD0- name+AFw-n+ACI-,
+    +ACI-        self.id +AD0- Cid+AFw-n+ACI-,
+    +ACI-student1 +AD0- Student(+AFwAIg-Shiv+AFwAIg-,4, 3)+AFw-n+ACI-,
+    +ACI-print(student1.age,student1.name,student1.id)+AFw-n+ACI-,
+    +ACIAXA-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Explanation : There won+AOIAgACZ-t be any error in any of the declarations since all the options are taking the three necessary arguments as mentioned in the init method. The only difference in each of the declarations would be the assignment of the instance values to the class attributes.+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Fill in the piece of code at line 9 to update the student standard to V. 1. Student.standard +AD0- 'V'+AFw-n+ACI-,
+    +ACIAIw- 2. student1.standard +AD0- 'V', 3. Student standard can only be changed in the original class.+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACIAIw-class Student:+AFw-n+ACI-,
+    +ACIAIw-    standard +AD0- 'IV'+AFw-n+ACI-,
+    +ACIAIw-    def +AF8AXw-init+AF8AXw-(self,age,name,Cid):+AFw-n+ACI-,
+    +ACIAIw-        self.age +AD0- age+AFw-n+ACI-,
+    +ACIAIw-        self.name +AD0- name+AFw-n+ACI-,
+    +ACIAIw-        self.id +AD0- Cid+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACIAIw-student1 +AD0- Student(12,+AFwAIg-Raj+AFwAIg-,24)+AFw-n+ACI-,
+    +ACIAIw-XXXXXXXXXX+AFw-n+ACI-,
+    +ACIAIw-print(student1.standard)+AFw-n+ACI-,
+    +ACIAXA-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Exlanation : Student standard is a class variable, so it can be updated directly using Classname.attributename and this would apply to all the instances of the class.+ADw-br+AD4-Student standard can also be updated using object.attributename, but this would apply to only this instance of the class. +ADw-br+AD4- Answer : Option 1 +ACY- Option 2 both are right+ACoAKgBc-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Method+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-class Rectangle :+AFw-n+ACI-,
+    +ACI-    def +AF8AXw-init+AF8AXw- (self, length, breadth):+AFw-n+ACI-,
+    +ACI-        self.length +AD0- length     +ACM- instance+AFw-n+ACI-,
+    +ACI-        self.breadth +AD0- breadth   +ACM- instance+AFw-n+ACI-,
+    +ACI-    +AFw-n+ACI-,
+    +ACI-    def Area+AF8-rectangle (self) :  +ACM- here 'self' identify association with instance+AFw-n+ACI-,
+    +ACI-        return self.length +ACo- self.breadth+AFw-n+ACI-,
+    +ACI-    +AFw-n+ACI-,
+    +ACI-R1 +AD0- Rectangle(10,5)+AFw-n+ACI-,
+    +ACI-print('Length of Rectangle +AD0-', R1.length, 'Breadth of Rectangle +AD0-', R1.breadth, 'Area of rectangle', R1.Area+AF8-rectangle())+AFw-n+ACI-,
+    +ACI-        +AFw-n+ACI-,
+    +ACI-    +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Significance of self in method +ADw-br+AD4- 'self' ensures that each instances refers to it's own copy of attributes.+ADw-br+AD4- but the self keyword in the init method has a different functionality of linking the elements defined in the class to the values passed as arguments while creating an instance to the class.+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-class Circle :+AFw-n+ACI-,
+    +ACI-    pi +AD0- 3.14+AFw-n+ACI-,
+    +ACI-    def +AF8AXw-init+AF8AXw- (self, radius):+AFw-n+ACI-,
+    +ACI-        self.radius +AD0- radius+AFw-n+ACI-,
+    +ACI-    +ACM- instance method+AFw-n+ACI-,
+    +ACI-    def calculated+AF8-area (self) :+AFw-n+ACI-,
+    +ACI-        return Circle.pi +ACo- self.radius+AFw-n+ACI-,
+    +ACI-    +ACM- class method+AFw-n+ACI-,
+    +ACI-    +AEA-classmethod       +ACM- class method decorator+AFw-n+ACI-,
+    +ACI-    def true+AF8-pi (cls):+ACM-'cls' is the class object as parameter, it can access all the attribute defined in the class using this cls ojcet+AFw-n+ACI-,
+    +ACI-        cls.pi +AD0- 3.1436+AFw-n+ACI-,
+    +ACI-        return cls.pi+AFw-n+ACI-,
+    +ACI-    +ACM- static method+AFw-n+ACI-,
+    +ACI-    +AEA-staticmethod    +ACM- static method decorator+AFw-n+ACI-,
+    +ACI-    def circle+AF8-static+AF8-method():+AFw-n+ACI-,
+    +ACI-        print(+AFwAIg-this is a circle's static method+AFwAIg-)+AFw-n+ACI-,
+    +ACI-C1 +AD0- Circle(5)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- use of instance method  instance methos has to be called on a instance of the class, here instance of class Circle is C1+AFw-n+ACI-,
+    +ACI-C1.calculated+AF8-area()+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- here want to print the valur of pi as it pi is class aatribute, we can call it by class name of instance name+AFw-n+ACI-,
+    +ACI-Circle.pi   +ACM- called here by class name +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-C1.pi       +ACM- called here by instance name +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- use of class method: here we want to call actual+AF8-pi. As it is circle we will call it by class name+AFw-n+ACI-,
+    +ACI-Circle.true+AF8-pi() +AFw-n+ACI-,
+    +ACI-Circle.pi +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-C1.pi  +ACM- now calling for instance here also pi value has changed +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-  static method identify certain functionality of the class and put them together inside an object+AFw-n+ACI-,
+    +ACIAIw- static methos does not take any parameter neither instance nor the class+AFw-n+ACI-,
+    +ACIAIw- it just belong to the class so has to be called by class name+AFw-n+ACI-,
+    +ACI-Circle.cicle+AF8-static+AF8-method()+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Question : What is the output of the following code? 1. 36, 2. 30, 3. 18, 4. error+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-class A :+AFw-n+ACI-,
+    +ACI-    x +AD0- 10+AFw-n+ACI-,
+    +ACI-    def +AF8AXw-init+AF8AXw-(self, y,z):+AFw-n+ACI-,
+    +ACI-        self.y +AD0- y+AFw-n+ACI-,
+    +ACI-        self.z +AD0- z+AFw-n+ACI-,
+    +ACI-           +AFw-n+ACI-,
+    +ACI-    def update+AF8-y(self):+AFw-n+ACI-,
+    +ACI-        self.y +AD0- self.y +ACo- self.x+AFw-n+ACI-,
+    +ACI-        self.z +AD0- self.z +ACo- self.x+AFw-n+ACI-,
+    +ACI-        +AFw-n+ACI-,
+    +ACI-A1 +AD0- A(3,4)+AFw-n+ACI-,
+    +ACI-A2 +AD0- A(5,6)+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-A1.update+AF8-y()+AFw-n+ACI-,
+    +ACI-A1.y  A2.z  +ACM- note A1 is updated but A2 not updated+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-Question : What is the output of the code above? 1. 10, 2. 20, 3.4, 4 Error in update+AF8-z()+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-class A :+AFw-n+ACI-,
+    +ACI-    x +AD0- 10+AFw-n+ACI-,
+    +ACI-    def +AF8AXw-init+AF8AXw-(self, y,z):+AFw-n+ACI-,
+    +ACI-        self.y +AD0- y+AFw-n+ACI-,
+    +ACI-        self.z +AD0- z+AFw-n+ACI-,
+    +ACI-           +AFw-n+ACI-,
+    +ACI-    def update+AF8-y(self):+AFw-n+ACI-,
+    +ACI-        self.y +AD0- self.y +ACo- self.x+AFw-n+ACI-,
+    +ACI-   +AFw-n+ACI-,
+    +ACI-    +AEA-classmethod+AFw-n+ACI-,
+    +ACI-    def update+AF8-z(cls):+AFw-n+ACI-,
+    +ACI-        self.z +AD0- self.z  20+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-        +AFw-n+ACI-,
+    +ACI-A1 +AD0- A(3,4)+AFw-n+ACI-,
+    +ACI-A2 +AD0- A(5,6)+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-A2.update+AF8-z()+AFw-n+ACI-,
+    +ACI-A1.y  A2.z+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-class A :+AFw-n+ACI-,
+    +ACI-    x +AD0- 10+AFw-n+ACI-,
+    +ACI-    def +AF8AXw-init+AF8AXw-(self, y,z):+AFw-n+ACI-,
+    +ACI-        self.y +AD0- y+AFw-n+ACI-,
+    +ACI-        self.z +AD0- z+AFw-n+ACI-,
+    +ACI-           +AFw-n+ACI-,
+    +ACI-    def update+AF8-y(self):+AFw-n+ACI-,
+    +ACI-        self.y +AD0- self.y +ACo- self.z+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-        +AFw-n+ACI-,
+    +ACI-        +AFw-n+ACI-,
+    +ACI-A1 +AD0- A(3,4)+AFw-n+ACI-,
+    +ACI-A2 +AD0- A(5,6)+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-A.x +AD0- 30+AFw-n+ACI-,
+    +ACI-A1.y  A2.x   +ACM- x is a class variable, and by A.x +AD0- 30, the variable x would be assigned an updated value of 30.+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-class A:+AFw-n+ACI-,
+    +ACI-    def +AF8AXw-init+AF8AXw-(self, x+AD0-1):+AFw-n+ACI-,
+    +ACI-        self.x +AD0- x+AFw-n+ACI-,
+    +ACI-class B(A):+AFw-n+ACI-,
+    +ACI-    def +AF8AXw-init+AF8AXw-(self,y +AD0-2):+AFw-n+ACI-,
+    +ACI-        super().+AF8AXw-init+AF8AXw-()+AFw-n+ACI-,
+    +ACI-        self.y +AD0- y+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-def main():+AFw-n+ACI-,
+    +ACI-    b +AD0- B()+AFw-n+ACI-,
+    +ACI-    print(b.x,b.y)+AFw-n+ACI-,
+    +ACI-main()+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-l1 +AD0- +AFs-1,2,3+AF0AXA-n+ACI-,
+    +ACI-l2 +AD0- +AFs-4,5,6+AF0AXA-n+ACI-,
+    +ACI-l1+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-import numpy as np+AFw-n+ACI-,
+    +ACI-np.array(+AFs-1.0, 2, 3.5, 0.2,True+AF0-)+AFw-n+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-NUMPY+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-heights+AF8-in +AD0- heights+AF8-in +AD0- +AFs-74, 74, 72, 72, 73, 69, 69, 71, 76, 71, 73, 73, 74, 74, 69, 70, 73, 75, 78, 79, 76, 74, 76, 72, 71, 75, 77, 74, 73, 74, 78, 73, 75, 73, 75, 75, 74, 69, 71, 74, 73, 73, 76, 74, 74, 70, 72, 77, 74, 70, 73, 75, 76, 76, 78, 74, 74, 76, 77, 81, 78, 75, 77, 75, 76, 74, 72, 72, 75, 73, 73, 73, 70, 70, 70, 76, 68, 71, 72, 75, 75, 75, 75, 68, 74, 78, 71, 73, 76, 74, 74, 79, 75, 73, 76, 74, 74, 73, 72, 74, 73, 74, 72, 73, 69, 72, 73, 75, 75, 73, 72, 72, 76, 74, 72, 77, 74, 77, 75, 76, 80, 74, 74, 75, 78, 73, 73, 74, 75, 76, 71, 73, 74, 76, 76, 74, 73, 74, 70, 72, 73, 73, 73, 73, 71, 74, 74, 72, 74, 71, 74, 73, 75, 75, 79, 73, 75, 76, 74, 76, 78, 74, 76, 72, 74, 76, 74, 75, 78, 75, 72, 74, 72, 74, 70, 71, 70, 75, 71, 71, 73, 72, 71, 73, 72, 75, 74, 74, 75, 73, 77, 73, 76, 75, 74, 76, 75, 73, 71, 76, 75, 72, 71, 77, 73, 74, 71, 72, 74, 75, 73, 72, 75, 75, 74, 72, 74, 71, 70, 74, 77, 77, 75, 75, 78, 75, 76, 73, 75, 75, 79, 77, 76, 71, 75, 74, 69, 71, 76, 72, 72, 70, 72, 73, 71, 72, 71, 73, 72, 73, 74, 74, 72, 75, 74, 74, 77, 75, 73, 72, 71, 74, 77, 75, 75, 75, 78, 78, 74, 76, 78, 76, 70, 72, 80, 74, 74, 71, 70, 72, 71, 74, 71, 72, 71, 74, 69, 76, 75, 75, 76, 73, 76, 73, 77, 73, 72, 72, 77, 77, 71, 74, 74, 73, 78, 75, 73, 70, 74, 72, 73, 73, 75, 75, 74, 76, 73, 74, 75, 75, 72, 73, 73, 72, 74, 78, 76, 73, 74, 75, 70, 75, 71, 72, 78, 75, 73, 73, 71, 75, 77, 72, 69, 73, 74, 72, 70, 75, 70, 72, 72, 74, 73, 74, 76, 75, 80, 72, 75, 73, 74, 74, 73, 75, 75, 71, 73, 75, 74, 74, 72, 74, 74, 74, 73, 76, 75, 72, 73, 73, 73, 72, 72, 72, 72, 71, 75, 75, 74, 73, 75, 79, 74, 76, 73, 74, 74, 72, 74, 74, 75, 78, 74, 74, 74, 77, 70, 73, 74, 73, 71, 75, 71, 72, 77, 74, 70, 77, 73, 72, 76, 71, 76, 78, 75, 73, 78, 74, 79, 75, 76, 72, 75, 75, 70, 72, 70, 74, 71, 76, 73, 76, 71, 69, 72, 72, 69, 73, 69, 73, 74, 74, 72, 71, 72, 72, 76, 76, 76, 74, 76, 75, 71, 72, 71, 73, 75, 76, 75, 71, 75, 74, 72, 73, 73, 73, 73, 76, 72, 76, 73, 73, 73, 75, 75, 77, 73, 72, 75, 70, 74, 72, 80, 71, 71, 74, 74, 73, 75, 76, 73, 77, 72, 73, 77, 76, 71, 75, 73, 74, 77, 71, 72, 73, 69, 73, 70, 74, 76, 73, 73, 75, 73, 79, 74, 73, 74, 77, 75, 74, 73, 77, 73, 77, 74, 74, 73, 77, 74, 77, 75, 77, 75, 71, 74, 70, 79, 72, 72, 70, 74, 74, 72, 73, 72, 74, 74, 76, 82, 74, 74, 70, 73, 73, 74, 77, 72, 76, 73, 73, 72, 74, 74, 71, 72, 75, 74, 74, 77, 70, 71, 73, 76, 71, 75, 74, 72, 76, 79, 76, 73, 76, 78, 75, 76, 72, 72, 73, 73, 75, 71, 76, 70, 75, 74, 75, 73, 71, 71, 72, 73, 73, 72, 69, 73, 78, 71, 73, 75, 76, 70, 74, 77, 75, 79, 72, 77, 73, 75, 75, 75, 73, 73, 76, 77, 75, 70, 71, 71, 75, 74, 69, 70, 75, 72, 75, 73, 72, 72, 72, 76, 75, 74, 69, 73, 72, 72, 75, 77, 76, 80, 77, 76, 79, 71, 75, 73, 76, 77, 73, 76, 70, 75, 73, 75, 70, 69, 71, 72, 72, 73, 70, 70, 73, 76, 75, 72, 73, 79, 71, 72, 74, 74, 74, 72, 76, 76, 72, 72, 71, 72, 72, 70, 77, 74, 72, 76, 71, 76, 71, 73, 70, 73, 73, 72, 71, 71, 71, 72, 72, 74, 74, 74, 71, 72, 75, 72, 71, 72, 72, 72, 72, 74, 74, 77, 75, 73, 75, 73, 76, 72, 77, 75, 72, 71, 71, 75, 72, 73, 73, 71, 70, 75, 71, 76, 73, 68, 71, 72, 74, 77, 72, 76, 78, 81, 72, 73, 76, 72, 72, 74, 76, 73, 76, 75, 70, 71, 74, 72, 73, 76, 76, 73, 71, 68, 71, 71, 74, 77, 69, 72, 76, 75, 76, 75, 76, 72, 74, 76, 74, 72, 75, 78, 77, 70, 72, 79, 74, 71, 68, 77, 75, 71, 72, 70, 72, 72, 73, 72, 74, 72, 72, 75, 72, 73, 74, 72, 78, 75, 72, 74, 75, 75, 76, 74, 74, 73, 74, 71, 74, 75, 76, 74, 76, 76, 73, 75, 75, 74, 68, 72, 75, 71, 70, 72, 73, 72, 75, 74, 70, 76, 71, 82, 72, 73, 74, 71, 75, 77, 72, 74, 72, 73, 78, 77, 73, 73, 73, 73, 73, 76, 75, 70, 73, 72, 73, 75, 74, 73, 73, 76, 73, 75, 70, 77, 72, 77, 74, 75, 75, 75, 75, 72, 74, 71, 76, 71, 75, 76, 83, 75, 74, 76, 72, 72, 75, 75, 72, 77, 73, 72, 70, 74, 72, 74, 72, 71, 70, 71, 76, 74, 76, 74, 74, 74, 75, 75, 71, 71, 74, 77, 71, 74, 75, 77, 76, 74, 76, 72, 71, 72, 75, 73, 68, 72, 69, 73, 73, 75, 70, 70, 74, 75, 74, 74, 73, 74, 75, 77, 73, 74, 76, 74, 75, 73, 76, 78, 75, 73, 77, 74, 72, 74, 72, 71, 73, 75, 73, 67, 67, 76, 74, 73, 70, 75, 70, 72, 77, 79, 78, 74, 75, 75, 78, 76, 75, 69, 75, 72, 75, 73, 74, 75, 75, 73+AF0AXA-n+ACI-,
+    +ACI-weights+AF8-lb +AD0- +AFs-180, 215, 210, 210, 188, 176, 209, 200, 231, 180, 188, 180, 185, 160, 180, 185, 189, 185, 219, 230, 205, 230, 195, 180, 192, 225, 203, 195, 182, 188, 200, 180, 200, 200, 245, 240, 215, 185, 175, 199, 200, 215, 200, 205, 206, 186, 188, 220, 210, 195, 200, 200, 212, 224, 210, 205, 220, 195, 200, 260, 228, 270, 200, 210, 190, 220, 180, 205, 210, 220, 211, 200, 180, 190, 170, 230, 155, 185, 185, 200, 225, 225, 220, 160, 205, 235, 250, 210, 190, 160, 200, 205, 222, 195, 205, 220, 220, 170, 185, 195, 220, 230, 180, 220, 180, 180, 170, 210, 215, 200, 213, 180, 192, 235, 185, 235, 210, 222, 210, 230, 220, 180, 190, 200, 210, 194, 180, 190, 240, 200, 198, 200, 195, 210, 220, 190, 210, 225, 180, 185, 170, 185, 185, 180, 178, 175, 200, 204, 211, 190, 210, 190, 190, 185, 290, 175, 185, 200, 220, 170, 220, 190, 220, 205, 200, 250, 225, 215, 210, 215, 195, 200, 194, 220, 180, 180, 170, 195, 180, 170, 206, 205, 200, 225, 201, 225, 233, 180, 225, 180, 220, 180, 237, 215, 190, 235, 190, 180, 165, 195, 200, 190, 190, 185, 185, 205, 190, 205, 206, 220, 208, 170, 195, 210, 190, 211, 230, 170, 185, 185, 241, 225, 210, 175, 230, 200, 215, 198, 226, 278, 215, 230, 240, 184, 219, 170, 218, 190, 225, 220, 176, 190, 197, 204, 167, 180, 195, 220, 215, 185, 190, 205, 205, 200, 210, 215, 200, 205, 211, 190, 208, 200, 210, 232, 230, 210, 220, 210, 202, 212, 225, 170, 190, 200, 237, 220, 170, 193, 190, 150, 220, 200, 190, 185, 185, 200, 172, 220, 225, 190, 195, 219, 190, 197, 200, 195, 210, 177, 220, 235, 180, 195, 195, 190, 230, 190, 200, 190, 190, 200, 200, 184, 200, 180, 219, 187, 200, 220, 205, 190, 170, 160, 215, 175, 205, 200, 214, 200, 190, 180, 205, 220, 190, 215, 235, 191, 200, 181, 200, 210, 240, 185, 165, 190, 185, 175, 155, 210, 170, 175, 220, 210, 205, 200, 205, 195, 240, 150, 200, 215, 202, 200, 190, 205, 190, 160, 215, 185, 200, 190, 210, 185, 220, 190, 202, 205, 220, 175, 160, 190, 200, 229, 206, 220, 180, 195, 175, 188, 230, 190, 200, 190, 219, 235, 180, 180, 180, 200, 234, 185, 220, 223, 200, 210, 200, 210, 190, 177, 227, 180, 195, 199, 175, 185, 240, 210, 180, 194, 225, 180, 205, 193, 230, 230, 220, 200, 249, 190, 208, 245, 250, 160, 192, 220, 170, 197, 155, 190, 200, 220, 210, 228, 190, 160, 184, 180, 180, 200, 176, 160, 222, 211, 195, 200, 175, 206, 240, 185, 260, 185, 221, 205, 200, 170, 201, 205, 185, 205, 245, 220, 210, 220, 185, 175, 170, 180, 200, 210, 175, 220, 206, 180, 210, 195, 200, 200, 164, 180, 220, 195, 205, 170, 240, 210, 195, 200, 205, 192, 190, 170, 240, 200, 205, 175, 250, 220, 224, 210, 195, 180, 245, 175, 180, 215, 175, 180, 195, 230, 230, 205, 215, 195, 180, 205, 180, 190, 180, 190, 190, 220, 210, 255, 190, 230, 200, 205, 210, 225, 215, 220, 205, 200, 220, 197, 225, 187, 245, 185, 185, 175, 200, 180, 188, 225, 200, 210, 245, 213, 231, 165, 228, 210, 250, 191, 190, 200, 215, 254, 232, 180, 215, 220, 180, 200, 170, 195, 210, 200, 220, 165, 180, 200, 200, 170, 224, 220, 180, 198, 240, 239, 185, 210, 220, 200, 195, 220, 230, 170, 220, 230, 165, 205, 192, 210, 205, 200, 210, 185, 195, 202, 205, 195, 180, 200, 185, 240, 185, 220, 205, 205, 180, 201, 190, 208, 240, 180, 230, 195, 215, 190, 195, 215, 215, 220, 220, 230, 195, 190, 195, 209, 204, 170, 185, 205, 175, 210, 190, 180, 180, 160, 235, 200, 210, 180, 190, 197, 203, 205, 170, 200, 250, 200, 220, 200, 190, 170, 190, 220, 215, 206, 215, 185, 235, 188, 230, 195, 168, 190, 160, 200, 200, 189, 180, 190, 200, 220, 187, 240, 190, 180, 185, 210, 220, 219, 190, 193, 175, 180, 215, 210, 200, 190, 185, 220, 170, 195, 205, 195, 210, 190, 190, 180, 220, 190, 186, 185, 190, 180, 190, 170, 210, 240, 220, 180, 210, 210, 195, 160, 180, 205, 200, 185, 245, 190, 210, 200, 200, 222, 215, 240, 170, 220, 156, 190, 202, 221, 200, 190, 210, 190, 200, 165, 190, 185, 230, 208, 209, 175, 180, 200, 205, 200, 250, 210, 230, 244, 202, 240, 200, 215, 177, 210, 170, 215, 217, 198, 200, 220, 170, 200, 230, 231, 183, 192, 167, 190, 180, 180, 215, 160, 205, 223, 175, 170, 190, 240, 175, 230, 223, 196, 167, 195, 190, 250, 190, 190, 190, 170, 160, 150, 225, 220, 209, 210, 176, 260, 195, 190, 184, 180, 195, 195, 219, 225, 212, 202, 185, 200, 209, 200, 195, 228, 210, 190, 212, 190, 218, 220, 190, 235, 210, 200, 188, 210, 235, 188, 215, 216, 220, 180, 185, 200, 210, 220, 185, 231, 210, 195, 200, 205, 200, 190, 250, 185, 180, 170, 180, 208, 235, 215, 244, 220, 185, 230, 190, 200, 180, 190, 196, 180, 230, 224, 160, 178, 205, 185, 210, 180, 190, 200, 257, 190, 220, 165, 205, 200, 208, 185, 215, 170, 235, 210, 170, 180, 170, 190, 150, 230, 203, 260, 246, 186, 210, 198, 210, 215, 180, 200, 245, 200, 192, 192, 200, 192, 205, 190, 186, 170, 197, 219, 200, 220, 207, 225, 207, 212, 225, 170, 190, 210, 230, 210, 200, 238, 234, 222, 200, 190, 170, 220, 223, 210, 215, 196, 175, 175, 189, 205, 210, 180, 180, 197, 220, 228, 190, 204, 165, 216, 220, 208, 210, 215, 195, 200, 215, 229, 240, 207, 205, 208, 185, 190, 170, 208, 225, 190, 225, 185, 180, 165, 240, 220, 212, 163, 215, 175, 205, 210, 205, 208, 215, 180, 200, 230, 211, 230, 190, 220, 180, 205, 190, 180, 205, 190, 195+AF0AXA-n+ACI-,
+    +ACI-import numpy as np+AFw-n+ACI-,
+    +ACI-heights+AF8-in +AD0- np.array(heights+AF8-in) +ACM- convertion to array to numpy array+AFw-n+ACI-,
+    +ACI-weights+AF8-lb +AD0- np.array(weights+AF8-lb) +ACM- convertion to array to numpy array+AFw-n+ACI-,
+    +ACI-type(heights+AF8-in)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFs-+AF0-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-heights+AF8-in.size +ACM- to know no of element in the array+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-weights+AF8-lb.size+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- convert the hright in meter and weight in kg and calclulate bmi+AFw-n+ACI-,
+    +ACI-heights+AF8-m +AD0- heights+AF8-in +ACo- 0.025+AFw-n+ACI-,
+    +ACI-weights+AF8-kg +AD0- weights+AF8-lb +ACo- 0.45+AFw-n+ACI-,
+    +ACI-bmi +AD0- weights+AF8-kg /(heights+AF8-m +ACoAKg-2)+AFw-n+ACI-,
+    +ACI-bmi+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHs-
+    +ACI-scrolled+ACI-: true
+   +AH0-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-type(bmi)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-bmi+AFs--3 :+AF0- +ACM- -3 to last elemnt of bmi+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-bmi+AFs-1 : 4+AF0- +ACM- slicing of second to 4th item of the array+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-bmi+AFs-bmi+AD4-21+AF0- +ACM- elemnts of bmi have value more than 21+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-bmi.max()+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-bmi.min()+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-array+AF8-1 +AD0- +AFs-1, 2, 3, 5, 4, 6, 7, 8, 5, 3, 2+AF0AXA-n+ACI-,
+    +ACI-print(array+AF8-1+AFs-::-2+AF0-) +ACM- as the skip value is -2 it wil start from end with skip value of 2+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-a +AD0- +AFs-2,3,4+AF0AXA-n+ACI-,
+    +ACI-A +AD0- np.array(a)+AFw-n+ACI-,
+    +ACI-(A+AD4-3)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-number +AD0- +AFs-8, 9, 9, 1, 6, 9, 5, 7, 3, 9, 7, 3, 4, 8, 3, 5, 8, 4, 8, 7, 5, 7, 3, 6, 1, 2, 7, 4, 7, 7, 8, 4, 3, 4, 2, 2, 2, 7, 3, 5, 6, 1, 1, 3, 2, 1, 1, 7, 7, 1, 4, 4, 5, 6, 1, 2, 7, 4, 5, 8, 1, 4, 8, 6, 2, 4, 3, 7, 3, 6, 2, 3, 3, 3, 2, 4, 6, 8, 9, 3, 9, 3, 1, 8, 6, 6, 3, 3, 9, 4, 6, 4, 9, 6, 7, 1, 2, 8, 7, 8, 1, 4+AF0AXA-n+ACI-,
+    +ACI-price +AD0- +AFs-195, 225, 150, 150, 90, 60, 75, 255, 270, 225, 135, 195, 30, 15, 210, 105, 15, 30, 180, 60, 165, 60, 45, 225, 180, 90, 30, 210, 150, 15, 270, 60, 210, 180, 60, 225, 150, 150, 120, 195, 75, 240, 60, 45, 30, 180, 240, 285, 135, 165, 180, 240, 60, 105, 165, 240, 120, 45, 120, 165, 285, 225, 90, 105, 225, 45, 45, 45, 75, 180, 90, 240, 30, 30, 60, 135, 180, 15, 255, 180, 270, 135, 105, 135, 210, 180, 135, 195, 225, 75, 225, 15, 240, 60, 15, 180, 255, 90, 15, 150, 230, 150+AF0AXA-n+ACI-,
+    +ACI-import numpy as np+AFw-n+ACI-,
+    +ACI-number +AD0- np.array(number)+AFw-n+ACI-,
+    +ACI-price +AD0- np.array(price)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Q1 : How many different products are sold by the company in total?+AFw-n+ACI-,
+    +ACI-number.size+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-Q2. How many items were sold in total?+AFw-n+ACI-,
+    +ACI-number.sum()+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Q3: What is the average price of the products sold by the e-commerce company?+AFw-n+ACI-,
+    +ACI-average+AF8-price +AD0- price.mean()+AFw-n+ACI-,
+    +ACI-average+AF8-price+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-Q4: What is the price of the costliest item sold?+AFw-n+ACI-,
+    +ACI-price.max()+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-Q5: What is the total revenue of the company? +AFs-Revenue +AD0- Price+ACo-Quantity+AF0AXA-n+ACI-,
+    +ACI-(number +ACo- price).sum()+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw-Q6: Demand for the 20th product on the list is higher than that for the 50th product. +AFs-True/False+AF0AXA-n+ACI-,
+    +ACI-number+AFs-20+AF0- +AD4- number+AFs-50+AF0AIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- Q7: How many products fall under the category of expensive goods?+AFw-n+ACI-,
+    +ACIAIw- An expensive good is one whose price is higher than the average price of the products sold by the company.+AFw-n+ACI-,
+    +ACI-(price+AFs-price+AD4- 139.02+AF0-).size   +ACM- note the use of () +ACY- +AFsAXQAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-MULTI DIMENSIONAL ARRAY+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: 2,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-import numpy as np+AFw-n+ACI-,
+    +ACI-players +AD0- +AFs-(74, 180), (74, 215),( 72, 210),(74, 211),(73,210),(74, 214)+AF0- +ACM- array of height and weight of players+AFw-n+ACI-,
+    +ACI-skills +AD0-  np.array(+AFsAXAAi-keeper+AFwAIg-, +AFwAIg-Batsman+AFwAIg-, +AFwAIg-Bowler+AFwAIg-, +AFwAIg-Bowler+AFwAIg-, +AFwAIg-Batsman+AFwAIg-, +AFwAIg-keeper-Batsman+AFwAIgBd-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: 4,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFs-
+    +AHs-
+     +ACI-data+ACI-: +AHs-
+      +ACI-text/plain+ACI-: +AFs-
+       +ACI-array(+AFsAWw- 74, 180+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs- 74, 215+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs- 72, 210+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs- 74, 211+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs- 73, 210+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs- 74, 214+AF0AXQ-)+ACI-
+      +AF0-
+     +AH0-,
+     +ACI-execution+AF8-count+ACI-: 4,
+     +ACI-metadata+ACI-: +AHsAfQ-,
+     +ACI-output+AF8-type+ACI-: +ACI-execute+AF8-result+ACI-
+    +AH0-
+   +AF0-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-import numpy as np+AFw-n+ACI-,
+    +ACI-np+AF8-players +AD0- np.array(players) +ACM- convrt player array in numpy array+AFw-n+ACI-,
+    +ACI-np+AF8-players+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: 4,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFs-
+    +AHs-
+     +ACI-data+ACI-: +AHs-
+      +ACI-text/plain+ACI-: +AFs-
+       +ACI-(6, 2)+ACI-
+      +AF0-
+     +AH0-,
+     +ACI-execution+AF8-count+ACI-: 4,
+     +ACI-metadata+ACI-: +AHsAfQ-,
+     +ACI-output+AF8-type+ACI-: +ACI-execute+AF8-result+ACI-
+    +AH0-
+   +AF0-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-players.shape +ACM- it has 6 ement in two cloumn+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: 5,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFs-
+    +AHs-
+     +ACI-data+ACI-: +AHs-
+      +ACI-text/plain+ACI-: +AFs-
+       +ACI-2+ACI-
+      +AF0-
+     +AH0-,
+     +ACI-execution+AF8-count+ACI-: 5,
+     +ACI-metadata+ACI-: +AHsAfQ-,
+     +ACI-output+AF8-type+ACI-: +ACI-execute+AF8-result+ACI-
+    +AH0-
+   +AF0-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-players.ndim +ACM- to find dimension of the array+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: 6,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFs-
+    +AHs-
+     +ACI-data+ACI-: +AHs-
+      +ACI-text/plain+ACI-: +AFs-
+       +ACI-dtype('int32')+ACI-
+      +AF0-
+     +AH0-,
+     +ACI-execution+AF8-count+ACI-: 6,
+     +ACI-metadata+ACI-: +AHsAfQ-,
+     +ACI-output+AF8-type+ACI-: +ACI-execute+AF8-result+ACI-
+    +AH0-
+   +AF0-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-players.dtype +ACM- to find the data type in np+AF8-plpayers+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: 7,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFs-
+    +AHs-
+     +ACI-data+ACI-: +AHs-
+      +ACI-text/plain+ACI-: +AFs-
+       +ACI-array(+AFs- 74, 215+AF0-)+ACI-
+      +AF0-
+     +AH0-,
+     +ACI-execution+AF8-count+ACI-: 7,
+     +ACI-metadata+ACI-: +AHsAfQ-,
+     +ACI-output+AF8-type+ACI-: +ACI-execute+AF8-result+ACI-
+    +AH0-
+   +AF0-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-players+AFs-1+AF0- +ACM- detail of the second players in the array+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: 8,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFs-
+    +AHs-
+     +ACI-data+ACI-: +AHs-
+      +ACI-text/plain+ACI-: +AFs-
+       +ACI-215+ACI-
+      +AF0-
+     +AH0-,
+     +ACI-execution+AF8-count+ACI-: 8,
+     +ACI-metadata+ACI-: +AHsAfQ-,
+     +ACI-output+AF8-type+ACI-: +ACI-execute+AF8-result+ACI-
+    +AH0-
+   +AF0-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-players+AFs-1+AF0AWw-1+AF0- +ACM- weight of second player in the array+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: 5,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFs-
+    +AHs-
+     +ACI-data+ACI-: +AHs-
+      +ACI-text/plain+ACI-: +AFs-
+       +ACI-array(+AFs-74, 74, 72, 74, 73, 74+AF0-)+ACI-
+      +AF0-
+     +AH0-,
+     +ACI-execution+AF8-count+ACI-: 5,
+     +ACI-metadata+ACI-: +AHsAfQ-,
+     +ACI-output+AF8-type+ACI-: +ACI-execute+AF8-result+ACI-
+    +AH0-
+   +AF0-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-players+AFs- : , 0+AF0- +ACM- will give height of all players i.e. all the rows and 0th column +ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-players+AFs-np+AF8-players+AFs- : ,0+AF0APA-74+AF0- +ACM- np+AF8-players+AFsAOw-,0+AF0- will extract the height column+ADs- then apply the condition height +ADw- 74 then apply on original np+AF8-players+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-players+AFs-skills +AD0APQ- +AFwAIg-Batsman+AFwAIgBd- +ACM- detail of players who are Batsman+AFw-n+ACI-,
+    +ACIAIw- this way we can apply condition on the other array also like skill here, which of same size+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: 6,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFs-
+    +AHs-
+     +ACI-data+ACI-: +AHs-
+      +ACI-text/plain+ACI-: +AFs-
+       +ACI-array(+AFsAWw-1, 2, 3+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs-4, 5, 6+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs-7, 8, 9+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs-3, 6, 5+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs-5, 7, 8+AF0AXQ-)+ACI-
+      +AF0-
+     +AH0-,
+     +ACI-execution+AF8-count+ACI-: 6,
+     +ACI-metadata+ACI-: +AHsAfQ-,
+     +ACI-output+AF8-type+ACI-: +ACI-execute+AF8-result+ACI-
+    +AH0-
+   +AF0-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-A +AD0- +AFs-(1,2,3),(4,5,6),(7,8,9),(3,6,5),(5,7,8)+AF0AXA-n+ACI-,
+    +ACI-np.array(A)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: 7,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFs-
+    +AHs-
+     +ACI-ename+ACI-: +ACI-TypeError+ACI-,
+     +ACI-evalue+ACI-: +ACI-list indices must be integers or slices, not tuple+ACI-,
+     +ACI-output+AF8-type+ACI-: +ACI-error+ACI-,
+     +ACI-traceback+ACI-: +AFs-
+      +ACIAXA-u001b+AFs-1+ADs-31m---------------------------------------------------------------------------+AFw-u001b+AFs-0m+ACI-,
+      +ACIAXA-u001b+AFs-1+ADs-31mTypeError+AFw-u001b+AFs-0m                                 Traceback (most recent call last)+ACI-,
+      +ACIAXA-u001b+AFs-1+ADs-32m+ADw-ipython-input-7-7331dc04dc89+AD4AXA-u001b+AFs-0m in +AFw-u001b+AFs-0+ADs-36m+ADw-module+AD4AXA-u001b+AFs-1+ADs-34m+AFw-u001b+AFs-0m+AFw-n+AFw-u001b+AFs-0+ADs-32m      1+AFw-u001b+AFs-0m +AFw-u001b+AFs-0mn+AF8-p+AFw-u001b+AFs-0m +AFw-u001b+AFs-1+ADs-33m+AD0AXA-u001b+AFs-0m +AFw-u001b+AFs-1+ADs-33m+AFsAXA-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m(+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-36m72+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m,+AFw-u001b+AFs-0m +AFw-u001b+AFs-1+ADs-36m180+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m,+AFw-u001b+AFs-0m +AFw-u001b+AFs-1+ADs-36m120+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m)+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m,+AFw-u001b+AFs-0m +AFw-u001b+AFs-1+ADs-33m(+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-36m74+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m,+AFw-u001b+AFs-0m +AFw-u001b+AFs-1+ADs-36m210+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m,+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-36m100+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m)+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m,+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m(+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-36m73+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m,+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-36m190+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m,+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-36m90+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m)+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m,+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m(+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-36m72+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m,+AFw-u001b+AFs-0m +AFw-u001b+AFs-1+ADs-36m175+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m,+AFw-u001b+AFs-0m +AFw-u001b+AFs-1+ADs-36m95+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m)+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AF0AXA-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AFw-u001b+AFs-0m+AFw-u001b+AFs-0m+AFw-n+AFw-u001b+AFs-0+ADs-32m      2+AFw-u001b+AFs-0m +AFw-u001b+AFs-0mnp+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m.+AFw-u001b+AFs-0m+AFw-u001b+AFs-0marray+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m(+AFw-u001b+AFs-0m+AFw-u001b+AFs-0mn+AF8-p+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m)+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AFw-u001b+AFs-0m+AFw-u001b+AFs-0m+AFw-n+AFw-u001b+AFs-1+ADs-32m----+AD4- 3+AFw-u001b+AFs-1+ADs-33m +AFw-u001b+AFs-0mn+AF8-p+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AFsAXA-u001b+AFs-0m +AFw-u001b+AFs-1+ADs-33m:+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m,+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m:+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-36m1+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AF0AXA-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AFw-u001b+AFs-0m+AFw-u001b+AFs-0m+AFw-n+AFw-u001b+AFs-0m+ACI-,
+      +ACIAXA-u001b+AFs-1+ADs-31mTypeError+AFw-u001b+AFs-0m: list indices must be integers or slices, not tuple+ACI-
+     +AF0-
+    +AH0-
+   +AF0-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-n+AF8-p +AD0- +AFs-(72, 180, 120), (74, 210,100),(73,190,90),(72, 175, 95)+AF0AXA-n+ACI-,
+    +ACI-np.array(n+AF8-p)+AFw-n+ACI-,
+    +ACI-n+AF8-p+AFs- :,:1+AF0AIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: 8,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFs-
+    +AHs-
+     +ACI-data+ACI-: +AHs-
+      +ACI-text/plain+ACI-: +AFs-
+       +ACI-array(+AFsAWw- 74, 180+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs- 74, 215+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs- 72, 210+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs- 74, 211+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs- 73, 210+AF0-,+AFw-n+ACI-,
+       +ACI-       +AFs- 74, 214+AF0AXQ-)+ACI-
+      +AF0-
+     +AH0-,
+     +ACI-execution+AF8-count+ACI-: 8,
+     +ACI-metadata+ACI-: +AHsAfQ-,
+     +ACI-output+AF8-type+ACI-: +ACI-execute+AF8-result+ACI-
+    +AH0-
+   +AF0-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-import numpy as np+AFw-n+ACI-,
+    +ACI-players +AD0- +AFs-(74, 180,120), (74, 215,100),( 72, 210,90),(74, 211,75),(73,210,140),(74, 214,100)+AF0AXA-n+ACI-,
+    +ACI-P +AD0- np.array(players)+AFw-n+ACI-,
+    +ACI-P+AFs-:,:2+AF0AIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-C +AD0- +AFs-(11, 12, 13, 14),(21, 22, 23, 24),(31 ,32 ,33 ,34)+AF0AXA-n+ACI-,
+    +ACI-c +AD0- np.array(C)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Note the difference of following three+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-c+AFs-:,0+AF0AIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-list(c+AFs-:,0+AF0-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-print(c+AFs-: , 0+AF0-)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-c+AFs-:,3+AF0AIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-c+AFs-0,:+AF0AIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-c+AFs-2,:+AF0AIg-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-Creating array directly in Numpy+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-1 +AD0- np.arange(1,5) +ACM- to create array of first 4 natural number +ACoAKg- note the spelling of arange its not arrange +AFw-n+ACI-,
+    +ACI-np+AF8-2 +AD0- np.zeros(5) +ACM- to create array of 5 zeros+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-1+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-2 +ACM- here zeros are in float+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-2.dtype +ACM- it's of float type+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-3 +AD0- np.zeros(5 , dtype +AD0- +AFwAIg-int+AFwAIg-)+AFw-n+ACI-,
+    +ACI-np+AF8-3+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-3.dtype+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-4 +AD0- np.arange(5,51,5)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-4+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- np+AF8-1 has 4 element and np+AF8-2 has 5 element, so can not be added+AFw-n+ACI-,
+    +ACI-np+AF8-1  np+AF8-2+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: 1,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFs-
+    +AHs-
+     +ACI-ename+ACI-: +ACI-NameError+ACI-,
+     +ACI-evalue+ACI-: +ACI-name 'np' is not defined+ACI-,
+     +ACI-output+AF8-type+ACI-: +ACI-error+ACI-,
+     +ACI-traceback+ACI-: +AFs-
+      +ACIAXA-u001b+AFs-1+ADs-31m---------------------------------------------------------------------------+AFw-u001b+AFs-0m+ACI-,
+      +ACIAXA-u001b+AFs-1+ADs-31mNameError+AFw-u001b+AFs-0m                                 Traceback (most recent call last)+ACI-,
+      +ACIAXA-u001b+AFs-1+ADs-32m+ADw-ipython-input-1-5780bef0c98e+AD4AXA-u001b+AFs-0m in +AFw-u001b+AFs-0+ADs-36m+ADw-module+AD4AXA-u001b+AFs-1+ADs-34m+AFw-u001b+AFs-0m+AFw-n+AFw-u001b+AFs-1+ADs-32m----+AD4- 1+AFw-u001b+AFs-1+ADs-33m +AFw-u001b+AFs-0mnp+AF8-5+AFw-u001b+AFs-0m +AFw-u001b+AFs-1+ADs-33m+AD0AXA-u001b+AFs-0m +AFw-u001b+AFs-0mnp+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m.+AFw-u001b+AFs-0m+AFw-u001b+AFs-0mones+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m(+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-36m5+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m)+AFw-u001b+AFs-0m +AFw-u001b+AFs-1+ADs-31m+ACM- array of 5 no one+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AFw-u001b+AFs-0m+AFw-u001b+AFs-0m+AFw-n+AFw-u001b+AFs-0m+AFw-u001b+AFs-0+ADs-32m      2+AFw-u001b+AFs-0m +AFw-u001b+AFs-0mnp+AF8-5+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AFw-u001b+AFs-0m+AFw-u001b+AFs-1+ADs-33m+AFw-u001b+AFs-0m+AFw-u001b+AFs-0m+AFw-n+ACI-,
+      +ACIAXA-u001b+AFs-1+ADs-31mNameError+AFw-u001b+AFs-0m: name 'np' is not defined+ACI-
+     +AF0-
+    +AH0-
+   +AF0-,
+   +ACI-source+ACI-: +AFs-
+    +ACI-np+AF8-5 +AD0- np.ones(5) +ACM- array of 5 no one+AFw-n+ACI-,
+    +ACI-np+AF8-5+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- now np+AF8-2 and np+AF8-5 can be added  For all arithmatic operation all the arrays should be of same size+AFw-n+ACI-,
+    +ACI-np+AF8-2  np+AF8-5+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- create bins between two numbers +AFw-n+ACI-,
+    +ACI-np+AF8-6 +AD0- np.linspace(1,20,7) +ACM- create 7 bins between 1 +ACY- 20+AFw-n+ACI-,
+    +ACIAXA-n+ACI-,
+    +ACI-np+AF8-6+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAIw- creating a 5X5 matric of integer 1 where except border values all are zeros+AFw-n+ACI-,
+    +ACI-np+AF8-7 +AD0- np.ones((5,5), dtype +AD0- 'int')+AFw-n+ACI-,
+    +ACI-print(np+AF8-7)+AFw-n+ACI-,
+    +ACI-np+AF8-7+AFs-1:-1, 1:-1+AF0- +AD0- 0+AFw-n+ACI-,
+    +ACI-print(np+AF8-7)+ACI-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-markdown+ACI-,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-source+ACI-: +AFs-
+    +ACIAKgAq-FEW MORE COMAND IN NUMPY+ACoAKgAi-
+   +AF0-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFsAXQ-
+  +AH0-,
+  +AHs-
+   +ACI-cell+AF8-type+ACI-: +ACI-code+ACI-,
+   +ACI-execution+AF8-count+ACI-: null,
+   +ACI-metadata+ACI-: +AHsAfQ-,
+   +ACI-outputs+ACI-: +AFsAXQ-,
+   +ACI-source+ACI-: +AFsAXQ-
+  +AH0-
+ +AF0-,
+ +ACI-metadata+ACI-: +AHs-
+  +ACI-kernelspec+ACI-: +AHs-
+   +ACI-display+AF8-name+ACI-: +ACI-Python 3+ACI-,
+   +ACI-language+ACI-: +ACI-python+ACI-,
+   +ACI-name+ACI-: +ACI-python3+ACI-
+  +AH0-,
+  +ACI-language+AF8-info+ACI-: +AHs-
+   +ACI-codemirror+AF8-mode+ACI-: +AHs-
+    +ACI-name+ACI-: +ACI-ipython+ACI-,
+    +ACI-version+ACI-: 3
+   +AH0-,
+   +ACI-file+AF8-extension+ACI-: +ACI-.py+ACI-,
+   +ACI-mimetype+ACI-: +ACI-text/x-python+ACI-,
+   +ACI-name+ACI-: +ACI-python+ACI-,
+   +ACI-nbconvert+AF8-exporter+ACI-: +ACI-python+ACI-,
+   +ACI-pygments+AF8-lexer+ACI-: +ACI-ipython3+ACI-,
+   +ACI-version+ACI-: +ACI-3.7.6+ACI-
+  +AH0-
+ +AH0-,
+ +ACI-nbformat+ACI-: 4,
+ +ACI-nbformat+AF8-minor+ACI-: 4
++AH0-
+
